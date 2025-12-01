@@ -25,7 +25,6 @@ def parse_kiaa():
             page.goto(URL, timeout=60000) # 60秒超时
             
             # === 关键步骤：等待内容加载 ===
-            # 我们等待页面上出现 class="item" 的元素，或者等待 10 秒让 JS 跑完
             try:
                 page.wait_for_selector('div.item', timeout=15000)
                 print("Content loaded successfully (selector found).")
@@ -92,7 +91,7 @@ def parse_kiaa():
                 e.begin = start_time
                 e.duration = {"hours": 1}
                 e.location = "KIAA"
-                e.description = f"Speaker: {speaker}\nRaw Date: {date_str}\nLink: {link}\n\n[Updated at {now_str}]"
+                e.description = f"Speaker: {speaker}\nDate: {date_str}\nLink: {link}\n\n[Updated at {now_str}]"
                 
                 cal.events.add(e)
                 count += 1
