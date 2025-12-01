@@ -1,10 +1,14 @@
 BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:ics.py - http://git.io/lLljaA
+PRODID:-//Error//CN
 BEGIN:VEVENT
-DESCRIPTION:Page Content Preview: ﻿<!DOCTYPE html> <html lang="en" dir="ltr">  <head>   <meta charset="utf-8" />  <title>Events Calendar-The Kavli Institute for Astronomy and Astrophysics at Peking University (KIAA-PKU)</title><meta name="pageType" content="2"> <meta name="pageTitle" content="Events Calendar"> <META Name="keywords" Content="The Kavli Institute for Astronomy and Astrophysics at Peking University (KIAA-PKU)\,Events Calendar" />    <style type="text/css" media="all"> @import url(../dfiles/11145/modules/sy
-DTSTART:20251201T082202Z
-SUMMARY:[Debug] Still 0 events
-UID:32f21f12-6665-4c31-ae3d-bd37c8402ba6@32f2.org
+SUMMARY:Error BrowserType.launch: Executable doesn't exist at /home/runner/.cache/ms-playwright/chromium_headless_shell-1194/chrome-linux/headless_shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
 END:VEVENT
 END:VCALENDAR
