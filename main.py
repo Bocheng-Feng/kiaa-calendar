@@ -1,5 +1,4 @@
 import requests
-from bs4 import BeautifulSoup
 from ics import Calendar, Event
 from datetime import datetime
 import pytz
@@ -9,102 +8,92 @@ import re
 URL = "https://kiaa.pku.edu.cn/Activities/Events_Calendar.htm"
 
 def parse_kiaa():
-    # 1. 初始化日历
     cal = Calendar()
-    
-    # === 关键修复：添加更新时间戳，强制文件内容发生变化，确保 GitHub 提交更新 ===
     now_str = datetime.now(pytz.timezone('Asia/Shanghai')).strftime("%Y-%m-%d %H:%M:%S")
-    # 我们把更新时间放在日历描述里
-    # 注意：ics 库的 method 可能不一样，这里用一种通用的方式
     
+    # 伪装成普通浏览器
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
     }
     
-    print(f"--- Scraper Started at {now_str} ---")
+    print(f"--- Scraper V4 (Brute Force) Started at {now_str} ---")
     
     try:
         r = requests.get(URL, headers=headers, timeout=30)
         r.encoding = 'utf-8'
-        soup = BeautifulSoup(r.text, 'html.parser')
+        raw_html = r.text
         
-        # 容器列表：我们将尝试把找到的所有可能的活动块都放进去
-        potential_items = []
+        # === 调试信息：如果页面太短，可能是被反爬拦截了 ===
+        print(f"Page length: {len(raw_html)} chars")
+        if len(raw_html) < 2000:
+             print("WARNING: Page content is suspiciously short.")
         
-        # 策略 A: 您提供的 class="item"
-        items_a = soup.find_all('div', class_='item')
-        potential_items.extend(items_a)
-        print(f"Strategy A (div.item) found: {len(items_a)}")
+        # === 暴力匹配策略 ===
+        # 我们不再解析HTML结构，直接在整个网页文本里找类似 "2 Dec 2025 - 03:30PM" 的模式
+        # KIAA 日期格式：日 月 年 - 时:分AM/PM
+        # 正则解释：数字 + 空格 + 英文月 + 空格 + 4位年 + 任意字符(可能是空格或HTML) + - + 任意字符 + 时间
+        date_pattern = re.compile(r'(\d{1,2}\s+(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\s+\d{4}.{0,10}?\d{1,2}:\d{2}\s*[AP]M)', re.IGNORECASE)
         
-        # 策略 B: 常见的 class="views-row"
-        items_b = soup.find_all('div', class_=re.compile('views-row'))
-        potential_items.extend(items_b)
-        print(f"Strategy B (views-row) found: {len(items_b)}")
+        matches = list(date_pattern.finditer(raw_html))
+        print(f"Found {len(matches)} date patterns in raw HTML.")
         
-        # 策略 C: 表格单元格 (以防它是月视图表格)
-        # 查找包含 'Speaker' 的 td 或 div
-        items_c = [t.parent for t in soup.find_all(string=re.compile("Speaker")) if t.parent.name in ['div', 'td', 'p']]
-        potential_items.extend(items_c)
-        print(f"Strategy C (Keyword Search) found: {len(items_c)}")
-
-        added_count = 0
-        
-        # 遍历所有找到的块
-        for item in potential_items:
+        count = 0
+        for match in matches:
             try:
-                text = item.get_text(" | ", strip=True) # 用 | 分隔，方便调试和正则
+                date_str_raw = match.group(1)
                 
-                # 必须包含 Speaker 或者是讲座相关的关键词
-                if "Speaker" not in text and "Seminar" not in text:
-                    continue
+                # 清洗日期字符串 (去掉中间可能的 &nbsp; 或多余空格)
+                # 例如: "2 Dec 2025&nbsp;-&nbsp;03:30PM" -> "2 Dec 2025 - 03:30PM"
+                date_str_clean = re.sub(r'<[^>]+>|&nbsp;', ' ', date_str_raw)
+                date_str_clean = re.sub(r'\s+', ' ', date_str_clean).replace(' - ', '-').replace('-', ' - ').strip()
                 
-                # === 1. 提取时间 ===
-                # 格式: 2 Dec 2025 - 03:30PM
-                # 正则解释：数字 + 单词 + 数字 + - + 时间
-                date_match = re.search(r'(\d{1,2}\s+[A-Za-z]{3}\s+\d{4}\s*-\s*\d{1,2}:\d{2}[AP]M)', text)
-                if not date_match:
-                    continue
+                # 尝试定位“周围”的文字作为标题和演讲者
+                # 我们截取日期前面 400 个字符
+                start_pos = max(0, match.start() - 400)
+                end_pos = match.end()
+                context_text = raw_html[start_pos:end_pos]
                 
-                date_str = date_match.group(1)
+                # 清除 HTML 标签，只留纯文本
+                clean_context = re.sub(r'<[^>]+>', ' | ', context_text)
+                parts = [p.strip() for p in clean_context.split('|') if p.strip()]
                 
-                # === 2. 提取演讲者 ===
+                # 倒序查找：日期前面的通常是地点、演讲者、标题
+                # 假设 parts 最后一部分是日期附近，往前找
+                # 典型结构：Title | Speaker | Time
+                
+                title = "Unknown Event"
                 speaker = "Unknown"
-                if "Speaker:" in text:
-                    # 截取 Speaker: 之后的内容，直到遇到 | 或者数字
-                    parts = text.split("Speaker:")
-                    if len(parts) > 1:
-                        speaker_part = parts[1].split("|")[0]
-                        speaker = speaker_part.strip()
                 
-                # === 3. 提取标题 ===
-                # 尝试找链接
-                title_tag = item.find('a')
-                if title_tag:
-                    title = title_tag.get_text(strip=True)
-                    link = title_tag['href']
-                    if not link.startswith('http'):
-                        link = "https://kiaa.pku.edu.cn" + link
-                else:
-                    # 如果没有链接，取 text 的第一段
-                    title = text.split("|")[0].strip()
-                    link = URL
+                # 简单的启发式猜测
+                # 过滤掉无关短词
+                valid_parts = [p for p in parts if len(p) > 2 and "Speaker" not in p]
+                
+                if valid_parts:
+                    # 取离日期最近的一个长句子作为标题
+                    title = valid_parts[-1] 
+                
+                # 尝试找 Speaker
+                speaker_match = re.search(r'Speaker\s*:?\s*([^|<]+)', context_text, re.IGNORECASE)
+                if speaker_match:
+                     speaker = speaker_match.group(1).strip()
 
-                # === 4. 解析日期并查重 ===
+                # 解析时间
                 try:
-                    start_time = datetime.strptime(date_str, "%d %b %Y - %I:%M%p")
+                    dt = datetime.strptime(date_str_clean, "%d %b %Y - %I:%M%p")
                     tz = pytz.timezone('Asia/Shanghai')
-                    start_time = tz.localize(start_time)
-                except:
+                    start_time = tz.localize(dt)
+                except ValueError:
+                    # 尝试容错
                     continue
-                
-                # 简单查重：如果在同一个时间已经有活动了，就跳过（防止策略A和策略B重复抓取）
+
+                # 查重
                 is_duplicate = False
                 for e in cal.events:
-                    if e.begin == start_time and e.name == title:
+                    if e.begin == start_time: # 同一时间通常只有一个讲座
                         is_duplicate = True
                         break
-                if is_duplicate:
-                    continue
+                if is_duplicate: continue
 
                 # 创建事件
                 e = Event()
@@ -112,36 +101,35 @@ def parse_kiaa():
                 e.begin = start_time
                 e.duration = {"hours": 1}
                 e.location = "KIAA"
-                e.description = f"Speaker: {speaker}\nTime: {date_str}\nLink: {link}\n\n[Auto-scraped at {now_str}]"
+                e.description = f"Speaker: {speaker}\nRaw Date: {date_str_clean}\nSource: {URL}"
                 
                 cal.events.add(e)
-                added_count += 1
+                count += 1
                 
             except Exception as e:
+                print(f"Error processing match: {e}")
                 continue
 
-        print(f"Total Unique Events Added: {added_count}")
+        print(f"Total events added: {count}")
 
-        # === 关键：即使没找到活动，也要写入一个带时间戳的空文件或提示 ===
-        # 这样我们可以确认脚本确实运行并写入了
-        if added_count == 0:
-            # 添加一个假事件提示用户
+        # === 调试反馈机制 ===
+        # 如果还是没找到，我把网页的前 500 个字符写进日历里，这样您就能告诉我 bot 到底看到了什么
+        if count == 0:
             e = Event()
-            e.name = "[No Events Found] Check Script"
+            e.name = "[Debug] Still 0 events"
             e.begin = datetime.now(pytz.timezone('Asia/Shanghai'))
-            e.description = f"Script ran at {now_str} but found 0 events."
+            # 截取网页前500个字符作为描述，帮我们诊断
+            debug_content = raw_html[:500].replace('\n', ' ').replace('\r', '')
+            e.description = f"Page Content Preview: {debug_content}"
             cal.events.add(e)
-            print("WARNING: No events found. Created a placeholder event.")
 
-        # 写入文件
         with open('kiaa.ics', 'w', encoding='utf-8') as f:
             f.writelines(cal.serialize())
-            
+
     except Exception as e:
         print(f"Critical Error: {e}")
-        # 出错也写文件，报错
         with open('kiaa.ics', 'w', encoding='utf-8') as f:
-            f.write(f"BEGIN:VCALENDAR\nVERSION:2.0\nX-ERROR:{str(e)}\nEND:VCALENDAR")
+             f.write(f"BEGIN:VCALENDAR\nPRODID:-//Debug//CN\nBEGIN:VEVENT\nSUMMARY:Error {str(e)}\nDTSTART:{now_str.replace('-','').replace(':','').replace(' ','')}Z\nEND:VEVENT\nEND:VCALENDAR")
 
 if __name__ == "__main__":
     parse_kiaa()
