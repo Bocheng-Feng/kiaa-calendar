@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Script ran at 2025-12-01 16:19:16 but found 0 events.
-DTSTART:20251201T081916Z
-SUMMARY:[No Events Found] Check Script
-UID:6ff447d4-cc9e-41af-b4d9-c3046fa07d04@6ff4.org
+DESCRIPTION:Page Content Preview: ﻿<!DOCTYPE html> <html lang="en" dir="ltr">  <head>   <meta charset="utf-8" />  <title>Events Calendar-The Kavli Institute for Astronomy and Astrophysics at Peking University (KIAA-PKU)</title><meta name="pageType" content="2"> <meta name="pageTitle" content="Events Calendar"> <META Name="keywords" Content="The Kavli Institute for Astronomy and Astrophysics at Peking University (KIAA-PKU)\,Events Calendar" />    <style type="text/css" media="all"> @import url(../dfiles/11145/modules/sy
+DTSTART:20251201T082202Z
+SUMMARY:[Debug] Still 0 events
+UID:32f21f12-6665-4c31-ae3d-bd37c8402ba6@32f2.org
 END:VEVENT
 END:VCALENDAR
