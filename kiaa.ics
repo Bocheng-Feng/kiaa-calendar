@@ -2,99 +2,99 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Yuankang Liu (Durham University)\nDate: 23 Dec 2025 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10412.htm\n\n[Updated at 2025-12-06 06:20:07]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20251223T073000Z
-SUMMARY:Yuankang Liu's seminar
-UID:82561a14-ffe1-4889-899e-b087b3a38d50@8256.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Jieshuang Wang\, Max Planck Institute for Plasma Physics\nDate: 8 Dec 2025 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10482.htm\n\n[Updated at 2025-12-06 06:20:07]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20251208T073000Z
-SUMMARY:The origin of cosmic rays: particle acceleration and emission from microquasar and active galactic nuclei
-UID:e21dd6fc-3154-4112-bbcd-3a90cc898750@e21d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Jiaqing Bi\nDate: 2 Dec 2025 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10210.htm\n\n[Updated at 2025-12-06 06:20:07]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20251202T073000Z
-SUMMARY:Where 3D models matter: pebble dynamics in planet-forming disks under planet-disk interactions
-UID:f041b0c5-0df7-43c8-a5c7-0dfbb0afac71@f041.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Geoffrey Bower\nDate: 15 Dec 2025 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10392.htm\n\n[Updated at 2025-12-06 06:20:07]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20251215T073000Z
-SUMMARY:Status and Future of The James Clerk Maxwell Telescope
-UID:42227cc8-a925-4d49-a1e0-4baa6c5a90c5@4222.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Xi Kang (ZJU)\nDate: 11 Dec 2025 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10202.htm\n\n[Updated at 2025-12-06 06:20:07]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20251211T073000Z
-SUMMARY:The Milky Way satellite galaxies
-UID:bc5d2cd6-3651-4acd-8d2c-1a7f7d805c8a@bc5d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Nagayoshi Ohashi (ASIAA)\nDate: 4 Dec 2025 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10322.htm\n\n[Updated at 2025-12-06 06:20:07]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20251204T073000Z
-SUMMARY:Formation and Evolution of embedded disks toward planet formation
-UID:89ee9a9e-d6f2-4a3c-9c4f-ade0dc9e1278@89ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Corentin Cadiou\nDate: 9 Dec 2025 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10342.htm\n\n[Updated at 2025-12-06 06:20:07]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20251209T073000Z
-SUMMARY:Tracing Cosmic Evolution: From the CMB to the Web\, the CGM\, and Galactic Disks
-UID:6755d88c-0120-40aa-833a-308e412f4bad@6755.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Unknown\nDate: 1 Dec 2025 - 09:00AM\nLink: http://kiaa.pku.edu.cn/info/1026/10462.htm\n\n[Updated at 2025-12-06 06:20:07]
+DESCRIPTION:Speaker: Unknown\nDate: 1 Dec 2025 - 09:00AM\nLink: http://kiaa.pku.edu.cn/info/1026/10462.htm\n\n[Updated at 2025-12-07 06:19:18]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20251201T010000Z
 SUMMARY:PKU-THU Postdoc Forum
-UID:acb34503-c084-4734-9c26-16813ba9d461@acb3.org
+UID:b0f39565-e367-41bd-a3f0-258e0c868b8d@b0f3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Prof. Eve Lee\nDate: 16 Dec 2025 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10231.htm\n\n[Updated at 2025-12-06 06:20:07]
+DESCRIPTION:Speaker: Dr. Jiaqing Bi\nDate: 2 Dec 2025 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10210.htm\n\n[Updated at 2025-12-07 06:19:18]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20251202T073000Z
+SUMMARY:Where 3D models matter: pebble dynamics in planet-forming disks under planet-disk interactions
+UID:8d7e975f-1a6f-464b-b477-8ff54858a7f0@8d7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Xi Kang (ZJU)\nDate: 11 Dec 2025 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10202.htm\n\n[Updated at 2025-12-07 06:19:18]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20251211T073000Z
+SUMMARY:The Milky Way satellite galaxies
+UID:94978581-5364-4d37-8326-0479cadf9a03@9497.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Corentin Cadiou\nDate: 9 Dec 2025 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10342.htm\n\n[Updated at 2025-12-07 06:19:18]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20251209T073000Z
+SUMMARY:Tracing Cosmic Evolution: From the CMB to the Web\, the CGM\, and Galactic Disks
+UID:36b1a807-cc2b-442d-8c8d-77f2a52154cc@36b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dr. Geoffrey Bower\nDate: 15 Dec 2025 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10392.htm\n\n[Updated at 2025-12-07 06:19:18]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20251215T073000Z
+SUMMARY:Status and Future of The James Clerk Maxwell Telescope
+UID:b069ceea-74b3-4397-8d16-7ed1fbe85d2d@b069.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Nagayoshi Ohashi (ASIAA)\nDate: 4 Dec 2025 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10322.htm\n\n[Updated at 2025-12-07 06:19:18]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20251204T073000Z
+SUMMARY:Formation and Evolution of embedded disks toward planet formation
+UID:c9b77d50-1a63-4b6f-96a6-655469fd15cf@c9b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Jieshuang Wang\, Max Planck Institute for Plasma Physics\nDate: 8 Dec 2025 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10482.htm\n\n[Updated at 2025-12-07 06:19:18]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20251208T073000Z
+SUMMARY:The origin of cosmic rays: particle acceleration and emission from microquasar and active galactic nuclei
+UID:0f0ff5f5-6fa8-4d71-84e2-6d67c563de7c@0f0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Prof. Eve Lee\nDate: 16 Dec 2025 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10231.htm\n\n[Updated at 2025-12-07 06:19:18]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20251216T073000Z
 SUMMARY:Eve lee's seminar
-UID:3d10b9c3-4633-4b08-8809-db2fe6f3e6ca@3d10.org
+UID:546898e1-9d53-413c-a2e4-7e4ec1c3d3cf@5468.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: León-Alexander Hühn\nDate: 2 Dec 2025 - 04:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/10382.htm\n\n[Updated at 2025-12-06 06:20:07]
+DESCRIPTION:Speaker: Yuankang Liu (Durham University)\nDate: 23 Dec 2025 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10412.htm\n\n[Updated at 2025-12-07 06:19:18]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20251223T073000Z
+SUMMARY:Yuankang Liu's seminar
+UID:64a4d86b-614a-498e-bf58-47bdf67986d8@64a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: León-Alexander Hühn\nDate: 2 Dec 2025 - 04:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/10382.htm\n\n[Updated at 2025-12-07 06:19:18]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20251202T080000Z
 SUMMARY:Late Infall onto Protoplanetary Disks: Reshaping our Interpretation of Substructures
-UID:811f8a64-cf3e-4f44-b2ca-c1f629a1ea50@811f.org
+UID:929ac8c4-11fe-4028-9d73-48f16c631954@929a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Xinwu Cao (ZJU)\nDate: 8 Jan 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10261.htm\n\n[Updated at 2025-12-06 06:20:07]
+DESCRIPTION:Speaker: Xinwu Cao (ZJU)\nDate: 8 Jan 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10261.htm\n\n[Updated at 2025-12-07 06:19:18]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260108T073000Z
 SUMMARY:Disk-corona evolution in tidal disrupted events and changing look active galactic nuclei
-UID:f8dd5db8-deda-4087-85cf-33940bd2f67b@f8dd.org
+UID:57918f19-fbf1-44ea-9b91-10b4a6c48afd@5791.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Xiaohu Yang (SJTU)\nDate: 18 Dec 2025 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10201.htm\n\n[Updated at 2025-12-06 06:20:07]
+DESCRIPTION:Speaker: Xiaohu Yang (SJTU)\nDate: 18 Dec 2025 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10201.htm\n\n[Updated at 2025-12-07 06:19:18]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20251218T073000Z
 SUMMARY:Unveiling the Dark Universe with High-Precision Galaxy Cluster Probes
-UID:ac83dd48-c89b-4a07-ab89-fd2ec003eb1a@ac83.org
+UID:66d71774-76fa-421e-a796-274092c55e18@66d7.org
 END:VEVENT
 END:VCALENDAR
