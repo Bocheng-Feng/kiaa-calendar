@@ -2,43 +2,43 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Tianshu Wang\nDate: 15 Jan 2026 - 10:00AM\nLink: http://kiaa.pku.edu.cn/info/1025/10592.htm\n\n[Updated at 2026-01-02 06:21:14]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260115T020000Z
-SUMMARY:Three-Dimensional Long-Term CCSN Simulations: New Insights and Challenges
-UID:d8e69921-ed44-49fb-bfa7-1fd160727983@d8e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Prof. Cong Kevin Xu\nDate: 13 Jan 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10582.htm\n\n[Updated at 2026-01-02 06:21:14]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260113T073000Z
-SUMMARY:SQ-A: A Collision Triggered Starburst in Intra-Group Medium of Stephan's Quintet
-UID:546736e7-f44c-4442-801a-9c0a06938027@5467.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Jiadong Li\nDate: 6 Jan 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10522.htm\n\n[Updated at 2026-01-02 06:21:14]
+DESCRIPTION:Speaker: Dr. Jiadong Li\nDate: 6 Jan 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10522.htm\n\n[Updated at 2026-01-03 06:21:20]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260106T073000Z
 SUMMARY:Variations of the Stellar Mass Function in the Milky Way Halo
-UID:21359b98-1683-45b0-97f7-7bbf19c77914@2135.org
+UID:69d72fcd-6db4-4465-a8e3-fe0f1548129f@69d7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Karl Glazebrook (Swinburne University of Technology)\nDate: 15 Jan 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10492.htm\n\n[Updated at 2026-01-02 06:21:14]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260115T073000Z
-SUMMARY:Uniting the Three Kingdoms of Cosmic Dawn
-UID:6b9f8a16-a6e9-402a-a051-fe3dd180455a@6b9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Xinwu Cao (ZJU)\nDate: 8 Jan 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10261.htm\n\n[Updated at 2026-01-02 06:21:14]
+DESCRIPTION:Speaker: Xinwu Cao (ZJU)\nDate: 8 Jan 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10261.htm\n\n[Updated at 2026-01-03 06:21:20]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260108T073000Z
 SUMMARY:Disk-corona evolution in tidal disrupted events and changing look active galactic nuclei
-UID:c414ffab-cc97-49e8-ab6c-120d16cef951@c414.org
+UID:18b40982-f7cf-479b-b930-28f7f8173126@18b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dr. Tianshu Wang\nDate: 15 Jan 2026 - 10:00AM\nLink: http://kiaa.pku.edu.cn/info/1025/10592.htm\n\n[Updated at 2026-01-03 06:21:20]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260115T020000Z
+SUMMARY:Three-Dimensional Long-Term CCSN Simulations: New Insights and Challenges
+UID:5543f877-d03e-435d-9e9e-d84e762cb7a3@5543.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Karl Glazebrook (Swinburne University of Technology)\nDate: 15 Jan 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10492.htm\n\n[Updated at 2026-01-03 06:21:20]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260115T073000Z
+SUMMARY:Uniting the Three Kingdoms of Cosmic Dawn
+UID:c7b115d8-d22c-4994-9ad4-f9ee7b7706eb@c7b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Prof. Cong Kevin Xu\nDate: 13 Jan 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10582.htm\n\n[Updated at 2026-01-03 06:21:20]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260113T073000Z
+SUMMARY:SQ-A: A Collision Triggered Starburst in Intra-Group Medium of Stephan's Quintet
+UID:905dce2d-5427-4968-a1e9-96bd17a03c5d@905d.org
 END:VEVENT
 END:VCALENDAR
