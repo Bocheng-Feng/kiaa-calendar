@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Tianshu Wang\nDate: 15 Jan 2026 - 10:00AM\nLink: http://kiaa.pku.edu.cn/info/1025/10592.htm\n\n[Updated at 2026-01-20 06:22:49]
+DESCRIPTION:Speaker: Dr. Tianshu Wang\nDate: 15 Jan 2026 - 10:00AM\nLink: http://kiaa.pku.edu.cn/info/1025/10592.htm\n\n[Updated at 2026-01-21 06:24:10]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260115T020000Z
 SUMMARY:Three-Dimensional Long-Term CCSN Simulations: New Insights and Challenges
-UID:18993982-6a43-4505-8893-c7336cee0d45@1899.org
+UID:ef5346cd-a15e-423e-92a4-6eef310bac66@ef53.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Prof. Cong Kevin Xu\nDate: 13 Jan 2026 - 01:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/10582.htm\n\n[Updated at 2026-01-20 06:22:49]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260113T050000Z
-SUMMARY:SQ-A: A Collision Triggered Starburst in Intra-Group Medium of Stephan's Quintet
-UID:7e4a22db-70a3-418f-b739-faf019f22dc8@7e4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Jiadong Li\nDate: 6 Jan 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10522.htm\n\n[Updated at 2026-01-20 06:22:49]
+DESCRIPTION:Speaker: Dr. Jiadong Li\nDate: 6 Jan 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10522.htm\n\n[Updated at 2026-01-21 06:24:10]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260106T073000Z
 SUMMARY:Variations of the Stellar Mass Function in the Milky Way Halo
-UID:0974c2b7-3ccf-4c40-8e3f-c4b4c76256d1@0974.org
+UID:86004695-838d-4032-ba8e-ff0c9b141c55@8600.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Prof. Cong Kevin Xu\nDate: 13 Jan 2026 - 01:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/10582.htm\n\n[Updated at 2026-01-21 06:24:10]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260113T050000Z
+SUMMARY:SQ-A: A Collision Triggered Starburst in Intra-Group Medium of Stephan's Quintet
+UID:25f9bb4f-e305-4283-9d33-fa609f7d41d0@25f9.org
 END:VEVENT
 END:VCALENDAR
