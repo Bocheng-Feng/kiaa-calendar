@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Tianshu Wang\nDate: 15 Jan 2026 - 10:00AM\nLink: http://kiaa.pku.edu.cn/info/1025/10592.htm\n\n[Updated at 2026-01-24 06:19:28]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260115T020000Z
-SUMMARY:Three-Dimensional Long-Term CCSN Simulations: New Insights and Challenges
-UID:94c19696-d87c-49d7-bd04-7b5280a966c9@94c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Prof. Cong Kevin Xu\nDate: 13 Jan 2026 - 01:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/10582.htm\n\n[Updated at 2026-01-24 06:19:28]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260113T050000Z
-SUMMARY:SQ-A: A Collision Triggered Starburst in Intra-Group Medium of Stephan's Quintet
-UID:a441ecd1-84bc-4a57-9f1b-fd1df33ac960@a441.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Jiadong Li\nDate: 6 Jan 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10522.htm\n\n[Updated at 2026-01-24 06:19:28]
+DESCRIPTION:Speaker: Dr. Jiadong Li\nDate: 6 Jan 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10522.htm\n\n[Updated at 2026-01-25 06:20:52]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260106T073000Z
 SUMMARY:Variations of the Stellar Mass Function in the Milky Way Halo
-UID:30c64978-c5a5-4e7b-9a8b-582ebbe7326f@30c6.org
+UID:2d0dd922-c558-404a-aefb-f5461ab896f7@2d0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dr. Tianshu Wang\nDate: 15 Jan 2026 - 10:00AM\nLink: http://kiaa.pku.edu.cn/info/1025/10592.htm\n\n[Updated at 2026-01-25 06:20:52]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260115T020000Z
+SUMMARY:Three-Dimensional Long-Term CCSN Simulations: New Insights and Challenges
+UID:18ee62e3-dea0-451b-b0a4-f63ec9acd328@18ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Prof. Cong Kevin Xu\nDate: 13 Jan 2026 - 01:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/10582.htm\n\n[Updated at 2026-01-25 06:20:52]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260113T050000Z
+SUMMARY:SQ-A: A Collision Triggered Starburst in Intra-Group Medium of Stephan's Quintet
+UID:e877824a-6344-4caa-a5b8-ba57f272f1bb@e877.org
 END:VEVENT
 END:VCALENDAR
