@@ -1,10 +1,9 @@
 BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:ics.py - http://git.io/lLljaA
+PRODID:-//Error//CN
 BEGIN:VEVENT
-DESCRIPTION:The website might be blocking GitHub IPs.
-DTSTART:20260201T222626Z
-SUMMARY:[Debug] Browser loaded but 0 events
-UID:fa7cc16f-6106-42b5-98ed-6b3732024df6@fa7c.org
+SUMMARY:Error Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://kiaa.pku.edu.cn/Activities/Events_Calendar.htm", waiting until "load"
+
 END:VEVENT
 END:VCALENDAR
