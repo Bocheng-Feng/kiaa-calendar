@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:The website might be blocking GitHub IPs.
-DTSTART:20260219T223343Z
+DTSTART:20260220T222745Z
 SUMMARY:[Debug] Browser loaded but 0 events
-UID:fbd2e4e1-70af-43a3-8859-e28ebbe90409@fbd2.org
+UID:315e13db-e9d7-452c-bc8e-967e8809477b@315e.org
 END:VEVENT
 END:VCALENDAR
