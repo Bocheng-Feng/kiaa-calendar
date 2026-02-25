@@ -2,19 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Xiaoshan Huang\, Caltech\nDate: 10 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10772.htm\n\n[Updated at 2026-02-25 06:34:52]
+DESCRIPTION:Speaker: Dr. Xiaoshan Huang\, Caltech\nDate: 10 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10772.htm\n\n[Updated at 2026-02-26 06:34:53]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260310T073000Z
 SUMMARY:Simulating Accretion and Early Light Curve in Tidal Disruption Event (TDE)
-UID:c84ca40d-0470-4e54-a9c4-a4963cf6e3f5@c84c.org
+UID:c0f955b2-4e0d-4656-a90a-2db2ca5f8f06@c0f9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Fengwei Xu\, MPIA\nDate: 3 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10762.htm\n\n[Updated at 2026-02-25 06:34:52]
+DESCRIPTION:Speaker: Dr. Fengwei Xu\, MPIA\nDate: 3 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10762.htm\n\n[Updated at 2026-02-26 06:34:53]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260303T073000Z
 SUMMARY:A Trapezium-like OB cluster in the making
-UID:8e810977-c96d-4876-a08e-fe3bcfaadddf@8e81.org
+UID:18c16e36-b4df-4b2e-95ff-b5b9db490b12@18c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Przemek Mroz (University of Warsaw)\nDate: 5 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10782.htm\n\n[Updated at 2026-02-26 06:34:53]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260305T073000Z
+SUMMARY:Toward "Industrial-Scale" Searches for Isolated Black Holes Using Microlensing
+UID:f6382672-d4f5-4e9d-846a-81a74a26a5c9@f638.org
 END:VEVENT
 END:VCALENDAR
