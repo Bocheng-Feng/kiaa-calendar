@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Xiaoshan Huang\, Caltech\nDate: 10 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10772.htm\n\n[Updated at 2026-02-27 06:34:44]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260310T073000Z
-SUMMARY:Simulating Accretion and Early Light Curve in Tidal Disruption Event (TDE)
-UID:4be8d3cc-5e7f-45aa-90a0-56a942831c1d@4be8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Fengwei Xu\, MPIA\nDate: 3 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10762.htm\n\n[Updated at 2026-02-27 06:34:44]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260303T073000Z
-SUMMARY:A Trapezium-like OB cluster in the making
-UID:c5a8d294-59fe-4ced-bd68-ad33fd60416a@c5a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Przemek Mroz (University of Warsaw)\nDate: 5 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10782.htm\n\n[Updated at 2026-02-27 06:34:44]
+DESCRIPTION:Speaker: Przemek Mroz (University of Warsaw)\nDate: 5 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10782.htm\n\n[Updated at 2026-02-28 06:24:49]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260305T073000Z
 SUMMARY:Toward "Industrial-Scale" Searches for Isolated Black Holes Using Microlensing
-UID:e56de986-6ebe-4fda-8060-1c3421e96a1e@e56d.org
+UID:aeda1a70-1fd1-4e9f-8917-bbed7338fcc8@aeda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dr. Fengwei Xu\, MPIA\nDate: 3 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10762.htm\n\n[Updated at 2026-02-28 06:24:49]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260303T073000Z
+SUMMARY:A Trapezium-like OB cluster in the making
+UID:db91fe47-406a-4879-bf44-95342acbf6a0@db91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dr. Xiaoshan Huang\, Caltech\nDate: 10 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10772.htm\n\n[Updated at 2026-02-28 06:24:49]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260310T073000Z
+SUMMARY:Simulating Accretion and Early Light Curve in Tidal Disruption Event (TDE)
+UID:90e731fb-4b3c-4f80-97e7-839ea132d28a@90e7.org
 END:VEVENT
 END:VCALENDAR
