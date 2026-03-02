@@ -2,43 +2,43 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Xiaoshan Huang\, Caltech\nDate: 10 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10772.htm\n\n[Updated at 2026-03-02 06:25:36]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260310T073000Z
-SUMMARY:Simulating Accretion and Early Light Curve in Tidal Disruption Event (TDE)
-UID:da0300e5-037d-4f40-8a31-d9f0f277596d@da03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Tomohiro Yoshida\nDate: 17 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10612.htm\n\n[Updated at 2026-03-02 06:25:36]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260317T073000Z
-SUMMARY:Dr. Yoshida's seminar
-UID:1f1b6f88-e30e-4914-bce6-9ef3377f812f@1f1b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Zhiyuan Li (Nanjing University)\nDate: 9 Apr 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10792.htm\n\n[Updated at 2026-03-02 06:25:36]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260409T073000Z
-SUMMARY:TBD
-UID:0ca82d98-5409-457f-9447-01d04776e10e@0ca8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Fengwei Xu\, MPIA\nDate: 3 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10762.htm\n\n[Updated at 2026-03-02 06:25:36]
+DESCRIPTION:Speaker: Dr. Fengwei Xu\, MPIA\nDate: 3 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10762.htm\n\n[Updated at 2026-03-03 06:28:13]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260303T073000Z
 SUMMARY:A Trapezium-like OB cluster in the making
-UID:cf213142-d158-4187-b78d-dc674bf7310a@cf21.org
+UID:a4e7416f-62d3-4ed4-b9de-c4248e9f1011@a4e7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Przemek Mroz (University of Warsaw)\nDate: 5 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10782.htm\n\n[Updated at 2026-03-02 06:25:36]
+DESCRIPTION:Speaker: Zhiyuan Li (Nanjing University)\nDate: 9 Apr 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10792.htm\n\n[Updated at 2026-03-03 06:28:13]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260409T073000Z
+SUMMARY:TBD
+UID:13bb3088-1b4f-4f1a-9877-ae80a482e438@13bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dr. Xiaoshan Huang\, Caltech\nDate: 10 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10772.htm\n\n[Updated at 2026-03-03 06:28:13]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260310T073000Z
+SUMMARY:Simulating Accretion and Early Light Curve in Tidal Disruption Event (TDE)
+UID:902c4fee-5051-400b-8b5a-7f4309bdb641@902c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Przemek Mroz (University of Warsaw)\nDate: 5 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10782.htm\n\n[Updated at 2026-03-03 06:28:13]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260305T073000Z
 SUMMARY:Toward "Industrial-Scale" Searches for Isolated Black Holes Using Microlensing
-UID:39b65b70-0a22-4fe4-9d1c-d835b3f836c6@39b6.org
+UID:e9019787-22e0-4241-9e8a-8c8bf43ab54b@e901.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dr. Tomohiro Yoshida\nDate: 17 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10612.htm\n\n[Updated at 2026-03-03 06:28:13]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260317T073000Z
+SUMMARY:Dr. Yoshida's seminar
+UID:58c4e924-682a-48f6-a511-fa8bd2487b4b@58c4.org
 END:VEVENT
 END:VCALENDAR
