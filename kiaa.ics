@@ -2,83 +2,91 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Guangxing Li (YNU)\nDate: 12 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10872.htm\n\n[Updated at 2026-03-20 06:30:17]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260312T073000Z
-SUMMARY:Computationally Driven Knowledge Discovery in Astronomy
-UID:66c23708-f1f2-4ea2-be3d-2b0bb866b79c@66c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Przemek Mroz (University of Warsaw)\nDate: 5 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10782.htm\n\n[Updated at 2026-03-20 06:30:17]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260305T073000Z
-SUMMARY:Toward "Industrial-Scale" Searches for Isolated Black Holes Using Microlensing
-UID:3404bd09-aa54-4cac-8463-33cee6538639@3404.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Andrew L. Miller\, ICTP-AP\nDate: 24 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10882.htm\n\n[Updated at 2026-03-20 06:30:17]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260324T073000Z
-SUMMARY:Can LIGO detect dark matter?
-UID:d3b26bf8-2fe5-4524-ae09-ac5dc523a424@d3b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Peng Wang (SHAO)\nDate: 19 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10912.htm\n\n[Updated at 2026-03-20 06:30:17]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260319T073000Z
-SUMMARY:Cosmic Dance: Angular Momentum Transfer from Large-scale to Small-scale
-UID:cc015e5b-f692-44c3-94f4-453b00785cea@cc01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Zhiyuan Li (Nanjing University)\nDate: 9 Apr 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10792.htm\n\n[Updated at 2026-03-20 06:30:17]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260409T073000Z
-SUMMARY:TBD
-UID:fcada8ac-8b5c-4b77-9fbd-dc98069ea945@fcad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Agata Karska\, Nicolaus Copernicus University in Torun\nDate: 31 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10902.htm\n\n[Updated at 2026-03-20 06:30:17]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260331T073000Z
-SUMMARY:Agata Karska's Seminar Talk
-UID:9b71007b-87e5-41f1-b052-db4b0f1bb237@9b71.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Xiaoshan Huang\, Caltech\nDate: 10 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10772.htm\n\n[Updated at 2026-03-20 06:30:17]
+DESCRIPTION:Speaker: Dr. Xiaoshan Huang\, Caltech\nDate: 10 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10772.htm\n\n[Updated at 2026-03-21 06:29:59]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260310T073000Z
 SUMMARY:Simulating Accretion and Early Light Curve in Tidal Disruption Event (TDE)
-UID:1249ca0b-82f4-497e-bebf-855c67cc8e20@1249.org
+UID:f45149ca-b852-4704-ac1f-155e2a427e04@f451.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Jianglai LIU (TDLI\, Shanghai Jiaotong U)\nDate: 26 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/11002.htm\n\n[Updated at 2026-03-20 06:30:17]
+DESCRIPTION:Speaker: Zhiyuan Li (Nanjing University)\nDate: 9 Apr 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10792.htm\n\n[Updated at 2026-03-21 06:29:59]
 DURATION:PT1H
 LOCATION:KIAA
-DTSTART:20260326T073000Z
+DTSTART:20260409T073000Z
 SUMMARY:TBD
-UID:44c99055-f2a8-471a-8f5e-9417735101a7@44c9.org
+UID:6ad4c951-3ae7-4eba-85ac-3bc6a7e45e46@6ad4.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Chenze Dong\, IPMU\nDate: 20 Mar 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/10842.htm\n\n[Updated at 2026-03-20 06:30:17]
+DESCRIPTION:Speaker: Peng Wang (SHAO)\nDate: 19 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10912.htm\n\n[Updated at 2026-03-21 06:29:59]
 DURATION:PT1H
 LOCATION:KIAA
-DTSTART:20260320T023000Z
-SUMMARY:Mapping Cosmic Baryons Beyond Galaxies: Insights from Density Reconstructions
-UID:4ce553e3-1cea-4f6a-8f73-7c8f01d55a76@4ce5.org
+DTSTART:20260319T073000Z
+SUMMARY:Cosmic Dance: Angular Momentum Transfer from Large-scale to Small-scale
+UID:06e96720-47fb-4050-b2d2-24da3dde21fd@06e9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Fengwei Xu\, MPIA\nDate: 3 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10762.htm\n\n[Updated at 2026-03-20 06:30:17]
+DESCRIPTION:Speaker: Przemek Mroz (University of Warsaw)\nDate: 5 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10782.htm\n\n[Updated at 2026-03-21 06:29:59]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260305T073000Z
+SUMMARY:Toward "Industrial-Scale" Searches for Isolated Black Holes Using Microlensing
+UID:e7858a80-080d-4c33-96ff-c4424b0b1459@e785.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dr. Fengwei Xu\, MPIA\nDate: 3 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10762.htm\n\n[Updated at 2026-03-21 06:29:59]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260303T073000Z
 SUMMARY:A Trapezium-like OB cluster in the making
-UID:3198f7bd-74b3-4a78-9529-7c3b9200ccfa@3198.org
+UID:345b92d6-7f20-49a3-8805-226a49f3ba16@345b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Jianglai LIU (TDLI\, Shanghai Jiaotong U)\nDate: 26 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/11002.htm\n\n[Updated at 2026-03-21 06:29:59]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260326T073000Z
+SUMMARY:Unlocking the Deepest Mysteries of the Universe with a Deep Underground Liquid Xenon Observatory
+UID:fb2ede5f-c73d-4a66-8ede-4bee8e5b5bcb@fb2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Guangxing Li (YNU)\nDate: 12 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10872.htm\n\n[Updated at 2026-03-21 06:29:59]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260312T073000Z
+SUMMARY:Computationally Driven Knowledge Discovery in Astronomy
+UID:48458418-25ec-4093-8cfd-ce8cbd649704@4845.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Andrew L. Miller\, ICTP-AP\nDate: 24 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10882.htm\n\n[Updated at 2026-03-21 06:29:59]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260324T073000Z
+SUMMARY:Can LIGO detect dark matter?
+UID:9c39132e-7c70-4f39-b7c5-6a5b2b001973@9c39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dr. Agata Karska\, Nicolaus Copernicus University in Torun\nDate: 31 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10902.htm\n\n[Updated at 2026-03-21 06:29:59]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260331T073000Z
+SUMMARY:Star formation in low-metallicity environments of the Milky Way: from clouds to cores
+UID:7e894ab4-8d30-4b70-9cb5-00328942b54a@7e89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Prof. Junzhi Wang\nDate: 27 Mar 2026 - 10:00AM\nLink: http://kiaa.pku.edu.cn/info/1025/11062.htm\n\n[Updated at 2026-03-21 06:29:59]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260327T020000Z
+SUMMARY:Ionized gas and radio recombination lines
+UID:61158f21-1028-4dff-9628-87a8470fe223@6115.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Chenze Dong\, IPMU\nDate: 20 Mar 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/10842.htm\n\n[Updated at 2026-03-21 06:29:59]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260320T023000Z
+SUMMARY:Mapping Cosmic Baryons Beyond Galaxies: Insights from Density Reconstructions
+UID:e6aa5e59-6cb7-4c59-a960-92578f227d94@e6aa.org
 END:VEVENT
 END:VCALENDAR
