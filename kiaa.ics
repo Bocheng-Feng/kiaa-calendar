@@ -2,115 +2,115 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Prof. Shiqi Yu\, University of Utah\nDate: 30 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11102.htm\n\n[Updated at 2026-04-27 06:39:29]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260330T073000Z
-SUMMARY:Evidence of Neutrino Emission from X-ray Bright Seyfert Galaxies with IceCube
-UID:2178823a-2a7a-4535-9baf-8e67d5bf3727@2178.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Zhiyuan Li (Nanjing University)\nDate: 9 Apr 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10792.htm\n\n[Updated at 2026-04-27 06:39:29]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260409T073000Z
-SUMMARY:The Murmuring Monster in Action: Feeding and Feedback of Dormant SMBHs in the Local Universe
-UID:136b9ed7-d104-485e-87b8-2a4f418231ee@136b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Prof. Tapas Baug\nDate: 7 Apr 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11122.htm\n\n[Updated at 2026-04-27 06:39:29]
+DESCRIPTION:Speaker: Prof. Tapas Baug\nDate: 7 Apr 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11122.htm\n\n[Updated at 2026-04-28 06:53:17]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260407T073000Z
 SUMMARY:Protostellar Outflows: A Probe to Explore Different Aspects of Star Formation
-UID:cec7959c-df37-4d27-ab39-b2f1ac2d1bef@cec7.org
+UID:d6ae85f7-8487-4441-a706-d6f3deda931d@d6ae.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Donghui Quan (Xi’an Jiaotong-Liverpool University)\nDate: 30 Apr 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/11242.htm\n\n[Updated at 2026-04-27 06:39:29]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260430T073000Z
-SUMMARY:From Traditional Approaches to AI-Empowered Exploration of Molecular Complexity in the Interstellar Medium
-UID:91a3d3e9-e5f5-4f3f-bf75-95f6585ca098@91a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Kai Wang\, Durham University\nDate: 22 Apr 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11182.htm\n\n[Updated at 2026-04-27 06:39:29]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260422T023000Z
-SUMMARY:Forged in quenching: An EAGLE's view of morphological transformation for star-forming and quiescent galaxies
-UID:199f705b-726a-4276-9c2c-0bd2c20546e9@199f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. David Aguado\, IAC\nDate: 29 Apr 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11072.htm\n\n[Updated at 2026-04-27 06:39:29]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260429T073000Z
-SUMMARY:Chemical Outliers in the Early Universe: the Search for the Most Metal-Poor Stars
-UID:9768156c-157c-4713-ac32-7825287ff660@9768.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Pau Amaro Seoane (Universitat Politècnica de València)\nDate: 2 Apr 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/11112.htm\n\n[Updated at 2026-04-27 06:39:29]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260402T073000Z
-SUMMARY:A forest of gravitational waves in our Galactic Centre
-UID:579a8d68-31a6-4698-9e1c-2eba5cc97b3c@579a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Teresa Paneque Carreno\, Umich\nDate: 28 Apr 2026 - 04:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/11042.htm\n\n[Updated at 2026-04-27 06:39:29]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260428T080000Z
-SUMMARY:Limits on turbulence from multi-molecular ALMA observations
-UID:09b05038-29f0-459d-ad16-b33effe2f7ec@09b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dong Lai (TDLI\, Shanghai Jiaotong Univ.)\nDate: 23 Apr 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10922.htm\n\n[Updated at 2026-04-27 06:39:29]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260423T073000Z
-SUMMARY:Pendulum\, Polarized X-rays from Magnetars and Eccentric Planets
-UID:d1159cac-e43b-455d-80dd-29b9702cf8c5@d115.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Yimeng Tang\, UC Santa Cruz\nDate: 14 Apr 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10852.htm\n\n[Updated at 2026-04-27 06:39:29]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260414T073000Z
-SUMMARY:Puzzles of the Small: Diversity of Dwarf Galaxies and Their Globular Clusters Across Environments
-UID:38a3acf9-5524-4274-bff5-d3c6d191e95e@38a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Agata Karska\, Nicolaus Copernicus University in Torun\nDate: 31 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10902.htm\n\n[Updated at 2026-04-27 06:39:29]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260331T073000Z
-SUMMARY:Star formation in low-metallicity environments of the Milky Way: from clouds to cores
-UID:06df86fe-8de3-4971-8fec-3a3b8d87cdb6@06df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Mengtao Tang (Shanghai Jiaotong Univ.)\nDate: 7 May 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10932.htm\n\n[Updated at 2026-04-27 06:39:29]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260507T073000Z
-SUMMARY:Insight into Galaxies in the Early Universe from JWST Spectroscopy
-UID:9da43198-88a3-4c21-b7c1-27375c5f1a85@9da4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Bo Peng\, MPA\nDate: 28 Apr 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11012.htm\n\n[Updated at 2026-04-27 06:39:29]
+DESCRIPTION:Speaker: Bo Peng\, MPA\nDate: 28 Apr 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11012.htm\n\n[Updated at 2026-04-28 06:53:17]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260428T073000Z
 SUMMARY:Comprehensive View of Far-Infrared Fine Structure Lines: New Answers & New Questions
-UID:2dcc14a9-8d1d-4301-9047-73565bbe5133@2dcc.org
+UID:22732c7e-ba86-415f-aeac-b547efce1f56@2273.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Eric Andersson\, American Museum of Natural History\nDate: 21 Apr 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11162.htm\n\n[Updated at 2026-04-27 06:39:29]
+DESCRIPTION:Speaker: Dr. Kai Wang\, Durham University\nDate: 22 Apr 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11182.htm\n\n[Updated at 2026-04-28 06:53:17]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260422T023000Z
+SUMMARY:Forged in quenching: An EAGLE's view of morphological transformation for star-forming and quiescent galaxies
+UID:68ab900d-197a-4140-8aa4-031fe79ec581@68ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Mengtao Tang (Shanghai Jiaotong Univ.)\nDate: 7 May 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10932.htm\n\n[Updated at 2026-04-28 06:53:17]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260507T073000Z
+SUMMARY:Insight into Galaxies in the Early Universe from JWST Spectroscopy
+UID:cb5fd2c2-e2d5-4503-a2f0-ca351ac776f6@cb5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Yimeng Tang\, UC Santa Cruz\nDate: 14 Apr 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10852.htm\n\n[Updated at 2026-04-28 06:53:17]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260414T073000Z
+SUMMARY:Puzzles of the Small: Diversity of Dwarf Galaxies and Their Globular Clusters Across Environments
+UID:352d5eb6-32ba-42b3-a7b5-3e7e27d157ac@352d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Zhiyuan Li (Nanjing University)\nDate: 9 Apr 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10792.htm\n\n[Updated at 2026-04-28 06:53:17]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260409T073000Z
+SUMMARY:The Murmuring Monster in Action: Feeding and Feedback of Dormant SMBHs in the Local Universe
+UID:2fa61e5c-34db-472d-8d87-cb0f07daf028@2fa6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dong Lai (TDLI\, Shanghai Jiaotong Univ.)\nDate: 23 Apr 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10922.htm\n\n[Updated at 2026-04-28 06:53:17]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260423T073000Z
+SUMMARY:Pendulum\, Polarized X-rays from Magnetars and Eccentric Planets
+UID:59b798df-43aa-470e-9a73-84246359bd4b@59b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dr. Eric Andersson\, American Museum of Natural History\nDate: 21 Apr 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11162.htm\n\n[Updated at 2026-04-28 06:53:17]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260421T073000Z
 SUMMARY:Chemical enrichment from individual stars in ultra-faint galaxies
-UID:a447cbb7-1529-4f9f-a5f1-0acc0cdb0989@a447.org
+UID:54344b36-9983-4350-acb1-c6e1cb675aa4@5434.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Donghui Quan (Xi’an Jiaotong-Liverpool University)\nDate: 30 Apr 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/11242.htm\n\n[Updated at 2026-04-28 06:53:17]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260430T073000Z
+SUMMARY:From Traditional Approaches to AI-Empowered Exploration of Molecular Complexity in the Interstellar Medium
+UID:d019c126-7a70-4180-a4c2-5de36e7145a3@d019.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Prof. Shiqi Yu\, University of Utah\nDate: 30 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11102.htm\n\n[Updated at 2026-04-28 06:53:17]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260330T073000Z
+SUMMARY:Evidence of Neutrino Emission from X-ray Bright Seyfert Galaxies with IceCube
+UID:bc40c9bb-89a2-4ed0-8e74-e2b074dc7f09@bc40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Pau Amaro Seoane (Universitat Politècnica de València)\nDate: 2 Apr 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/11112.htm\n\n[Updated at 2026-04-28 06:53:17]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260402T073000Z
+SUMMARY:A forest of gravitational waves in our Galactic Centre
+UID:28998f10-0efd-4d90-ab01-d21cc720679a@2899.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dr. Agata Karska\, Nicolaus Copernicus University in Torun\nDate: 31 Mar 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10902.htm\n\n[Updated at 2026-04-28 06:53:17]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260331T073000Z
+SUMMARY:Star formation in low-metallicity environments of the Milky Way: from clouds to cores
+UID:14f01f1d-b093-4cfc-8538-cab36be3e4dd@14f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dr. David Aguado\, IAC\nDate: 29 Apr 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11072.htm\n\n[Updated at 2026-04-28 06:53:17]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260429T073000Z
+SUMMARY:Chemical Outliers in the Early Universe: the Search for the Most Metal-Poor Stars
+UID:86eb0b0c-3c3d-4829-8822-6d0dbf0a0b3a@86eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dr. Teresa Paneque Carreno\, Umich\nDate: 28 Apr 2026 - 04:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/11042.htm\n\n[Updated at 2026-04-28 06:53:17]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260428T080000Z
+SUMMARY:Limits on turbulence from multi-molecular ALMA observations
+UID:18d1a157-eafe-4159-adc6-3fc50b908eeb@18d1.org
 END:VEVENT
 END:VCALENDAR
