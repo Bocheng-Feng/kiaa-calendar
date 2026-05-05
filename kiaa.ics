@@ -2,123 +2,123 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Hongping Deng (SHAO)\nDate: 4 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10962.htm\n\n[Updated at 2026-05-05 06:57:20]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260604T073000Z
-SUMMARY:TBD
-UID:f2969be2-8652-4633-9934-3ac56782d151@f296.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Yukun Huang\, NAOJ\nDate: 26 May 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11132.htm\n\n[Updated at 2026-05-05 06:57:20]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260526T073000Z
-SUMMARY:Dr. Yukun Huang's Seminar Talk
-UID:65666d3f-2fae-4da1-b425-249294ca3c93@6566.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Sebastian Alejandro Bahamonde Beltran\, IBS\nDate: 18 May 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10972.htm\n\n[Updated at 2026-05-05 06:57:20]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260518T073000Z
-SUMMARY:Sebastian Alejandro Bahamonde Beltran's Seminar Talk
-UID:23ee6767-698c-4018-9c37-9b1e4a064d7f@23ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Mengtao Tang (Shanghai Jiaotong Univ.)\nDate: 7 May 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10932.htm\n\n[Updated at 2026-05-05 06:57:20]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260507T073000Z
-SUMMARY:Insight into Galaxies in the Early Universe from JWST Spectroscopy
-UID:c9becc92-eacf-40c5-90bd-4e5c7c861f80@c9be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Ningchen Sun (UCAS)\nDate: 21 May 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10942.htm\n\n[Updated at 2026-05-05 06:57:20]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260521T073000Z
-SUMMARY:TBD
-UID:89c1d6c2-f983-4835-9959-69b88f483abb@89c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Darius Modirrousta-Galian\nDate: 2 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11052.htm\n\n[Updated at 2026-05-05 06:57:20]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260602T073000Z
-SUMMARY:Darius Modirrousta-Galian's Seminar Talk
-UID:39ce859f-3456-40fd-a7bc-531d9927c16f@39ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Bo Peng\, MPA\nDate: 28 Apr 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11012.htm\n\n[Updated at 2026-05-05 06:57:20]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260428T073000Z
-SUMMARY:Comprehensive View of Far-Infrared Fine Structure Lines: New Answers & New Questions
-UID:a804ac50-3144-4462-83ff-9a234fa13691@a804.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Aaron Ludlow (Univ. of West Australia)\nDate: 28 May 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10952.htm\n\n[Updated at 2026-05-05 06:57:20]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260528T073000Z
-SUMMARY:TBD
-UID:b4e9fd39-6ffd-475c-b7fd-b2b9622a31ff@b4e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Teresa Paneque Carreno\, Umich\nDate: 28 Apr 2026 - 04:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/11042.htm\n\n[Updated at 2026-05-05 06:57:20]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260428T080000Z
-SUMMARY:Limits on turbulence from multi-molecular ALMA observations
-UID:17f3ea8b-f1e8-469c-a827-b7b3a94feb8d@17f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dazhi Zhou\, University of British Columbia\, Canada\nDate: 12 May 2026 - 01:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10982.htm\n\n[Updated at 2026-05-05 06:57:20]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260512T053000Z
-SUMMARY:SPT-selected protoclusters and the early emergence of the hot intracluster gas
-UID:abfdddec-9331-4fc0-bc04-14f838b6a33f@abfd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Di LI (THU)\nDate: 14 May 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/11222.htm\n\n[Updated at 2026-05-05 06:57:20]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260514T073000Z
-SUMMARY:Galileo\, Hertz and the "Time Frontier"
-UID:f5b2b0ac-f06d-40d3-9cab-e535f8a87acc@f5b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Donghui Quan (Xi’an Jiaotong-Liverpool University)\nDate: 30 Apr 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/11242.htm\n\n[Updated at 2026-05-05 06:57:20]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260430T073000Z
-SUMMARY:From Traditional Approaches to AI-Empowered Exploration of Molecular Complexity in the Interstellar Medium
-UID:b8c0dc38-7a33-4209-ab80-9eaea5089f36@b8c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Xiurui Zhao\, Caltech\nDate: 19 May 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11232.htm\n\n[Updated at 2026-05-05 06:57:20]
+DESCRIPTION:Speaker: Dr. Xiurui Zhao\, Caltech\nDate: 19 May 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11232.htm\n\n[Updated at 2026-05-06 06:56:10]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260519T073000Z
 SUMMARY:An X-ray View of Active Galactic Nuclei
-UID:31b362c4-741d-4ead-b3d8-ac7799a5d4e5@31b3.org
+UID:5c8d71a1-e2ab-40c9-94f8-b4c6c71c4854@5c8d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. David Aguado\, IAC\nDate: 29 Apr 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11072.htm\n\n[Updated at 2026-05-05 06:57:20]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260429T073000Z
-SUMMARY:Chemical Outliers in the Early Universe: the Search for the Most Metal-Poor Stars
-UID:067f54e7-0689-46eb-b48c-311087fcb856@067f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Prof. Helei Liu\nDate: 25 May 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11192.htm\n\n[Updated at 2026-05-05 06:57:20]
+DESCRIPTION:Speaker: Prof. Helei Liu\nDate: 25 May 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11192.htm\n\n[Updated at 2026-05-06 06:56:10]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260525T073000Z
 SUMMARY:Prof. Helei Liu's Seminar Talk
-UID:ccebed3f-59bf-4a4e-8d5e-921b2095da23@cceb.org
+UID:88867179-d927-491a-a958-b5cbf9156658@8886.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Aaron Ludlow (Univ. of West Australia)\nDate: 28 May 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10952.htm\n\n[Updated at 2026-05-06 06:56:10]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260528T073000Z
+SUMMARY:TBD
+UID:ce9da855-5da1-4b1b-88d3-b638bb3a6893@ce9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Hongping Deng (SHAO)\nDate: 4 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10962.htm\n\n[Updated at 2026-05-06 06:56:10]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260604T073000Z
+SUMMARY:TBD
+UID:4c2307d8-cf79-4f2d-aed9-857bb1383bc9@4c23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dazhi Zhou\, University of British Columbia\, Canada\nDate: 12 May 2026 - 01:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10982.htm\n\n[Updated at 2026-05-06 06:56:10]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260512T053000Z
+SUMMARY:SPT-selected protoclusters and the early emergence of the hot intracluster gas
+UID:1d69b767-fdea-4c21-b434-71240b864fb2@1d69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Bo Peng\, MPA\nDate: 28 Apr 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11012.htm\n\n[Updated at 2026-05-06 06:56:10]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260428T073000Z
+SUMMARY:Comprehensive View of Far-Infrared Fine Structure Lines: New Answers & New Questions
+UID:5eefbf65-93be-4b48-a6e5-e05df9ce2741@5eef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Sebastian Alejandro Bahamonde Beltran\, IBS\nDate: 18 May 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/10972.htm\n\n[Updated at 2026-05-06 06:56:10]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260518T073000Z
+SUMMARY:Sebastian Alejandro Bahamonde Beltran's Seminar Talk
+UID:2a09b8e0-e15a-4633-a49c-c0f6fb4a2a15@2a09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Donghui Quan (Xi’an Jiaotong-Liverpool University)\nDate: 30 Apr 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/11242.htm\n\n[Updated at 2026-05-06 06:56:10]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260430T073000Z
+SUMMARY:From Traditional Approaches to AI-Empowered Exploration of Molecular Complexity in the Interstellar Medium
+UID:df23999c-a360-412e-b6e0-885dd9d17570@df23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Ningchen Sun (UCAS)\nDate: 21 May 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10942.htm\n\n[Updated at 2026-05-06 06:56:10]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260521T073000Z
+SUMMARY:TBD
+UID:324aeed2-eae7-4570-8a07-0cf9079b3d0e@324a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Mengtao Tang (Shanghai Jiaotong Univ.)\nDate: 7 May 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10932.htm\n\n[Updated at 2026-05-06 06:56:10]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260507T073000Z
+SUMMARY:Insight into Galaxies in the Early Universe from JWST Spectroscopy
+UID:bc8b6fc0-c1de-4362-9082-e5ab2ef3e99d@bc8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Di LI (THU)\nDate: 14 May 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/11222.htm\n\n[Updated at 2026-05-06 06:56:10]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260514T073000Z
+SUMMARY:Galileo\, Hertz and the "Time Frontier"
+UID:4d40ca4d-ed76-48e8-83b4-65aca6d7c53a@4d40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Yukun Huang\, NAOJ\nDate: 26 May 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11132.htm\n\n[Updated at 2026-05-06 06:56:10]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260526T073000Z
+SUMMARY:Dr. Yukun Huang's Seminar Talk
+UID:d1134ee7-67fa-406a-8e7f-e608e1a62dba@d113.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dr. Teresa Paneque Carreno\, Umich\nDate: 28 Apr 2026 - 04:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/11042.htm\n\n[Updated at 2026-05-06 06:56:10]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260428T080000Z
+SUMMARY:Limits on turbulence from multi-molecular ALMA observations
+UID:04a7f0b0-5c99-4dc8-9eb3-43d97ce223b3@04a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Darius Modirrousta-Galian\nDate: 2 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11052.htm\n\n[Updated at 2026-05-06 06:56:10]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260602T073000Z
+SUMMARY:Darius Modirrousta-Galian's Seminar Talk
+UID:4aadb547-d428-40d3-b015-813a8dc24847@4aad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dr. David Aguado\, IAC\nDate: 29 Apr 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11072.htm\n\n[Updated at 2026-05-06 06:56:10]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260429T073000Z
+SUMMARY:Chemical Outliers in the Early Universe: the Search for the Most Metal-Poor Stars
+UID:ed1e14d6-c3e5-4d56-b550-344ef5fcada0@ed1e.org
 END:VEVENT
 END:VCALENDAR
