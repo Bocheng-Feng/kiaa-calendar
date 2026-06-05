@@ -2,51 +2,51 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Hongping Deng (SHAO)\nDate: 4 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10962.htm\n\n[Updated at 2026-06-05 07:09:07]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260604T073000Z
-SUMMARY:Beyond the Circle: Spirals\, Warps\, and Eccentricity in Accretion Disks
-UID:b3f6d39e-a9aa-4121-8be0-c37c2774b7b0@b3f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Tomoya Kinugawa (Shinshu University）\nDate: 11 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10812.htm\n\n[Updated at 2026-06-05 07:09:07]
+DESCRIPTION:Speaker: Tomoya Kinugawa (Shinshu University）\nDate: 11 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10812.htm\n\n[Updated at 2026-06-06 07:09:56]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260611T073000Z
 SUMMARY:Gravitational Waves from First Star Remnants
-UID:fb23ded5-99c8-4f1c-a64f-cdc8ba14667d@fb23.org
+UID:1023e072-1358-4761-8bd4-181d1efacda4@1023.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Zhaoxuan Liu\, CEA Paris-Saclay\nDate: 3 Jul 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11392.htm\n\n[Updated at 2026-06-05 07:09:07]
+DESCRIPTION:Speaker: Zhaoxuan Liu\, CEA Paris-Saclay\nDate: 3 Jul 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11392.htm\n\n[Updated at 2026-06-06 07:09:56]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260703T023000Z
 SUMMARY:Zhaoxuan Liu's Seminar Talk
-UID:a4e7543c-9cff-4269-8f2b-3312582a3a5c@a4e7.org
+UID:d4f9efe8-8e7b-4c6a-9ac6-3f24b57ccb07@d4f9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Unknown\nDate: 12 Jun 2026 - 12:00PM\nLink: http://kiaa.pku.edu.cn/info/1026/11372.htm\n\n[Updated at 2026-06-05 07:09:07]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260612T040000Z
-SUMMARY:2nd Beijing Physics\, Astrophysics and Cosmology Workshop (B-PAC)
-UID:4ebae870-610c-466e-941a-ce953a3cf27a@4eba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Darius Modirrousta-Galian\, TDLI\nDate: 2 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11052.htm\n\n[Updated at 2026-06-05 07:09:07]
+DESCRIPTION:Speaker: Darius Modirrousta-Galian\, TDLI\nDate: 2 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11052.htm\n\n[Updated at 2026-06-06 07:09:56]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260602T073000Z
 SUMMARY:On the connection between observed atmospheric abundances and planetary interiors and evolutions
-UID:b71ce6ec-f588-4059-bb84-bc2381b9d38d@b71c.org
+UID:511b9efe-a819-4b4f-abb6-4924a8ae2a41@511b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Prof. Shuo Kong\, Arizona\nDate: 9 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11382.htm\n\n[Updated at 2026-06-05 07:09:07]
+DESCRIPTION:Speaker: Hongping Deng (SHAO)\nDate: 4 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10962.htm\n\n[Updated at 2026-06-06 07:09:56]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260604T073000Z
+SUMMARY:Beyond the Circle: Spirals\, Warps\, and Eccentricity in Accretion Disks
+UID:2836569f-a533-4650-bc35-8550eb7281f0@2836.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Prof. Shuo Kong\, Arizona\nDate: 9 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11382.htm\n\n[Updated at 2026-06-06 07:09:56]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260609T073000Z
 SUMMARY:Magnetically regulated molecular cloud formation
-UID:00cc5e30-f685-4e5c-b884-a7fdac1df41a@00cc.org
+UID:902b85d6-ca36-4426-bb9a-578c64774810@902b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Unknown\nDate: 12 Jun 2026 - 12:00PM\nLink: http://kiaa.pku.edu.cn/info/1026/11372.htm\n\n[Updated at 2026-06-06 07:09:56]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260612T040000Z
+SUMMARY:2nd Beijing Physics\, Astrophysics and Cosmology Workshop (B-PAC)
+UID:58565741-85af-4520-baf1-20850067de56@5856.org
 END:VEVENT
 END:VCALENDAR
