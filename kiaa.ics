@@ -2,51 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Darius Modirrousta-Galian\, TDLI\nDate: 2 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11052.htm\n\n[Updated at 2026-06-07 07:04:38]
+DESCRIPTION:Speaker: Alfred Amruth\, HKU\nDate: 16 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11412.htm\n\n[Updated at 2026-06-08 07:05:09]
 DURATION:PT1H
 LOCATION:KIAA
-DTSTART:20260602T073000Z
-SUMMARY:On the connection between observed atmospheric abundances and planetary interiors and evolutions
-UID:5501806d-9419-4f80-bc86-0e67185e8b4e@5501.org
+DTSTART:20260616T073000Z
+SUMMARY:Alfred Amruth's talk
+UID:bb8b12fa-a475-467a-a537-cbfaedc9b039@bb8b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Hongping Deng (SHAO)\nDate: 4 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10962.htm\n\n[Updated at 2026-06-07 07:04:38]
+DESCRIPTION:Speaker: Prof. Yue Shen\nDate: 23 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11402.htm\n\n[Updated at 2026-06-08 07:05:09]
 DURATION:PT1H
 LOCATION:KIAA
-DTSTART:20260604T073000Z
-SUMMARY:Beyond the Circle: Spirals\, Warps\, and Eccentricity in Accretion Disks
-UID:4d32de95-9c81-4c5d-b78d-207c40b39fbb@4d32.org
+DTSTART:20260623T073000Z
+SUMMARY:NEXUS: The North-ecliptic-pole EXtragalactic Unified Survey
+UID:bbe76d3f-e16b-434d-ada5-ac8d580f425c@bbe7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Prof. Shuo Kong\, Arizona\nDate: 9 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11382.htm\n\n[Updated at 2026-06-07 07:04:38]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260609T073000Z
-SUMMARY:Magnetically regulated molecular cloud formation
-UID:4c99aaab-6dbc-48da-ba36-5b0f84d4e676@4c99.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Tomoya Kinugawa (Shinshu University）\nDate: 11 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10812.htm\n\n[Updated at 2026-06-07 07:04:38]
+DESCRIPTION:Speaker: Tomoya Kinugawa (Shinshu University）\nDate: 11 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10812.htm\n\n[Updated at 2026-06-08 07:05:09]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260611T073000Z
 SUMMARY:Gravitational Waves from First Star Remnants
-UID:4843b9d2-a679-403d-9bc6-19601e6a66c5@4843.org
+UID:a39f463c-a459-4c21-9ecd-154d0a70ab5d@a39f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Zhaoxuan Liu\, CEA Paris-Saclay\nDate: 3 Jul 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11392.htm\n\n[Updated at 2026-06-07 07:04:38]
+DESCRIPTION:Speaker: Hongping Deng (SHAO)\nDate: 4 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10962.htm\n\n[Updated at 2026-06-08 07:05:09]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260604T073000Z
+SUMMARY:Beyond the Circle: Spirals\, Warps\, and Eccentricity in Accretion Disks
+UID:56da43d8-9127-44af-8d55-c456f26a7071@56da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Prof. Shuo Kong\, Arizona\nDate: 9 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11382.htm\n\n[Updated at 2026-06-08 07:05:09]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260609T073000Z
+SUMMARY:Magnetically regulated molecular cloud formation
+UID:ccc18027-673c-4cf5-9c82-1f2e14a85e4e@ccc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Darius Modirrousta-Galian\, TDLI\nDate: 2 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11052.htm\n\n[Updated at 2026-06-08 07:05:09]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260602T073000Z
+SUMMARY:On the connection between observed atmospheric abundances and planetary interiors and evolutions
+UID:f9b97ec2-a6af-4496-b148-929d50649184@f9b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Zhaoxuan Liu\, CEA Paris-Saclay\nDate: 3 Jul 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11392.htm\n\n[Updated at 2026-06-08 07:05:09]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260703T023000Z
 SUMMARY:Zhaoxuan Liu's Seminar Talk
-UID:f0044bc5-1337-4169-a36f-628861d29022@f004.org
+UID:9fba40f5-9789-4440-b426-96f0cf2fe8a5@9fba.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Unknown\nDate: 12 Jun 2026 - 12:00PM\nLink: http://kiaa.pku.edu.cn/info/1026/11372.htm\n\n[Updated at 2026-06-07 07:04:38]
+DESCRIPTION:Speaker: Unknown\nDate: 12 Jun 2026 - 12:00PM\nLink: http://kiaa.pku.edu.cn/info/1026/11372.htm\n\n[Updated at 2026-06-08 07:05:09]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260612T040000Z
 SUMMARY:2nd Beijing Physics\, Astrophysics and Cosmology Workshop (B-PAC)
-UID:7a94e496-b566-4fe6-9044-d3df4514dbb1@7a94.org
+UID:1f5ec1ff-c821-474f-97ea-300bb469185d@1f5e.org
 END:VEVENT
 END:VCALENDAR
