@@ -2,75 +2,75 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Hongping Deng (SHAO)\nDate: 4 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10962.htm\n\n[Updated at 2026-06-10 07:17:08]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260604T073000Z
-SUMMARY:Beyond the Circle: Spirals\, Warps\, and Eccentricity in Accretion Disks
-UID:dae65965-0293-4c6b-b7a8-f6ebcd6148d0@dae6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Prof. Yue Shen\, University of Illinois at Urbana-Champaign\nDate: 23 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11402.htm\n\n[Updated at 2026-06-10 07:17:08]
+DESCRIPTION:Speaker: Prof. Yue Shen\, University of Illinois at Urbana-Champaign\nDate: 23 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11402.htm\n\n[Updated at 2026-06-11 07:25:34]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260623T073000Z
 SUMMARY:NEXUS: The North-ecliptic-pole EXtragalactic Unified Survey
-UID:bf68bd49-eeae-4385-826c-93ed5b530588@bf68.org
+UID:a94d3827-6d41-4375-b8da-4fe9e0aaaf37@a94d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Prof. Shuo Kong\, Arizona\nDate: 9 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11382.htm\n\n[Updated at 2026-06-10 07:17:08]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260609T073000Z
-SUMMARY:Magnetically regulated molecular cloud formation
-UID:583c66c9-b8f2-49c1-b3e1-4624f369d0ee@583c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Darius Modirrousta-Galian\, TDLI\nDate: 2 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11052.htm\n\n[Updated at 2026-06-10 07:17:08]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260602T073000Z
-SUMMARY:On the connection between observed atmospheric abundances and planetary interiors and evolutions
-UID:8a6efb69-fa7e-4efd-bbd5-31fb4fc6d167@8a6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Alfred Amruth\, HKU\nDate: 16 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11412.htm\n\n[Updated at 2026-06-10 07:17:08]
+DESCRIPTION:Speaker: Alfred Amruth\, HKU\nDate: 16 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11412.htm\n\n[Updated at 2026-06-11 07:25:34]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260616T073000Z
 SUMMARY:Alfred Amruth's talk
-UID:c40c601c-8abe-499c-9e2a-ac258d7c8cfc@c40c.org
+UID:ea959688-d762-411f-abda-c0d81a8c44e5@ea95.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Hangyuan Li\, Research Assistant at KIAA\nDate: 10 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11422.htm\n\n[Updated at 2026-06-10 07:17:08]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260610T073000Z
-SUMMARY:Fast\, flexible\, fully Bayesian modeling of HI galaxy kinematics with FABLE
-UID:3aa194ed-d434-437d-97fb-85c0f1cf0673@3aa1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Tomoya Kinugawa (Shinshu University）\nDate: 11 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10812.htm\n\n[Updated at 2026-06-10 07:17:08]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260611T073000Z
-SUMMARY:Gravitational Waves from First Star Remnants
-UID:cd4c6965-4d42-4007-b369-f8b0158f4108@cd4c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Unknown\nDate: 12 Jun 2026 - 12:00PM\nLink: http://kiaa.pku.edu.cn/info/1026/11372.htm\n\n[Updated at 2026-06-10 07:17:08]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260612T040000Z
-SUMMARY:2nd Beijing Physics\, Astrophysics and Cosmology Workshop (B-PAC)
-UID:d552d15b-0f5b-4eab-88ea-6e2c00f51618@d552.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Zhaoxuan Liu\, CEA Paris-Saclay\nDate: 3 Jul 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11392.htm\n\n[Updated at 2026-06-10 07:17:08]
+DESCRIPTION:Speaker: Zhaoxuan Liu\, CEA Paris-Saclay\nDate: 3 Jul 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11392.htm\n\n[Updated at 2026-06-11 07:25:34]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260703T023000Z
 SUMMARY:Zhaoxuan Liu's Seminar Talk
-UID:57bd518e-4a78-4fb9-b06c-808fdeb3221d@57bd.org
+UID:f4f2506d-d2ab-4854-ae76-d90df5a1d2bc@f4f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Hongping Deng (SHAO)\nDate: 4 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10962.htm\n\n[Updated at 2026-06-11 07:25:34]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260604T073000Z
+SUMMARY:Beyond the Circle: Spirals\, Warps\, and Eccentricity in Accretion Disks
+UID:883dde6f-8dca-4201-ac9f-9a9eea8b534f@883d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Tomoya Kinugawa (Shinshu University）\nDate: 11 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10812.htm\n\n[Updated at 2026-06-11 07:25:34]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260611T073000Z
+SUMMARY:Gravitational Waves from First Star Remnants
+UID:0e0ee97c-a944-4e5a-b68c-1a476717884e@0e0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Unknown\nDate: 12 Jun 2026 - 12:00PM\nLink: http://kiaa.pku.edu.cn/info/1026/11372.htm\n\n[Updated at 2026-06-11 07:25:34]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260612T040000Z
+SUMMARY:2nd Beijing Physics\, Astrophysics and Cosmology Workshop (B-PAC)
+UID:1bec5c14-eba8-4316-a0c7-c4d3b605f34b@1bec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Prof. Shuo Kong\, Arizona\nDate: 9 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11382.htm\n\n[Updated at 2026-06-11 07:25:34]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260609T073000Z
+SUMMARY:Magnetically regulated molecular cloud formation
+UID:1a1f9810-8c82-4a69-9576-4273b27fbef7@1a1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Hangyuan Li\, Research Assistant at KIAA\nDate: 10 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11422.htm\n\n[Updated at 2026-06-11 07:25:34]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260610T073000Z
+SUMMARY:Fast\, flexible\, fully Bayesian modeling of HI galaxy kinematics with FABLE
+UID:4913f1de-8c62-4bc8-b2a2-732e30cc606a@4913.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Darius Modirrousta-Galian\, TDLI\nDate: 2 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11052.htm\n\n[Updated at 2026-06-11 07:25:34]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260602T073000Z
+SUMMARY:On the connection between observed atmospheric abundances and planetary interiors and evolutions
+UID:1942d212-3181-44ea-9484-06c099ccade6@1942.org
 END:VEVENT
 END:VCALENDAR
