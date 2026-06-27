@@ -2,83 +2,83 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Hongping Deng (SHAO)\nDate: 4 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10962.htm\n\n[Updated at 2026-06-27 07:06:23]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260604T073000Z
-SUMMARY:Beyond the Circle: Spirals\, Warps\, and Eccentricity in Accretion Disks
-UID:e5c298d2-1610-4979-a51d-467393d18222@e5c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Unknown\nDate: 12 Jun 2026 - 12:00PM\nLink: http://kiaa.pku.edu.cn/info/1026/11372.htm\n\n[Updated at 2026-06-27 07:06:23]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260612T040000Z
-SUMMARY:2nd Beijing Physics\, Astrophysics and Cosmology Workshop (B-PAC)
-UID:4814e367-ccbc-41aa-84b9-9c395d8d3c5b@4814.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Amruth Alfred\, HKU\nDate: 16 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11412.htm\n\n[Updated at 2026-06-27 07:06:23]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260616T073000Z
-SUMMARY:Lighting up Dark Matter with the Dragon
-UID:b08416fa-b727-4a6e-b470-6c8eac0c4f0d@b084.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Prof. Shuo Kong\, Arizona\nDate: 9 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11382.htm\n\n[Updated at 2026-06-27 07:06:23]
+DESCRIPTION:Speaker: Prof. Shuo Kong\, Arizona\nDate: 9 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11382.htm\n\n[Updated at 2026-06-28 07:02:43]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260609T073000Z
 SUMMARY:Magnetically regulated molecular cloud formation
-UID:25d3fa94-6348-419c-9254-24c0af384095@25d3.org
+UID:b9d182da-b091-43b9-b938-c476e68f8a20@b9d1.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Zhaoxuan Liu\, CEA Paris-Saclay\nDate: 3 Jul 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11392.htm\n\n[Updated at 2026-06-27 07:06:23]
+DESCRIPTION:Speaker: Zhaoxuan Liu\, CEA Paris-Saclay\nDate: 3 Jul 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11392.htm\n\n[Updated at 2026-06-28 07:02:43]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260703T023000Z
 SUMMARY:How do mergers accelerate the buildup and transformation of massive galaxies?
-UID:307e49f6-6a07-4551-93b0-9a0eb8b373ba@307e.org
+UID:56593b19-b9ce-4eb3-937c-851e4ab3e39b@5659.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Darius Modirrousta-Galian\, TDLI\nDate: 2 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11052.htm\n\n[Updated at 2026-06-27 07:06:23]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260602T073000Z
-SUMMARY:On the connection between observed atmospheric abundances and planetary interiors and evolutions
-UID:3cc70790-cad6-4708-b3c6-4cb4b600d241@3cc7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Hangyuan Li\, Research Assistant at KIAA\nDate: 10 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11422.htm\n\n[Updated at 2026-06-27 07:06:23]
+DESCRIPTION:Speaker: Hangyuan Li\, Research Assistant at KIAA\nDate: 10 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11422.htm\n\n[Updated at 2026-06-28 07:02:43]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260610T073000Z
 SUMMARY:Fast\, flexible\, fully Bayesian modeling of HI galaxy kinematics with FABLE
-UID:b1199ced-58a9-4b59-8c20-0a32d9a272b2@b119.org
+UID:7622c28c-2d51-4b77-955d-d8ea2e4f846a@7622.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Haonan Zheng\, KIAA\nDate: 29 Jun 2026 - 02:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/11482.htm\n\n[Updated at 2026-06-27 07:06:23]
+DESCRIPTION:Speaker: Hongping Deng (SHAO)\nDate: 4 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10962.htm\n\n[Updated at 2026-06-28 07:02:43]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260604T073000Z
+SUMMARY:Beyond the Circle: Spirals\, Warps\, and Eccentricity in Accretion Disks
+UID:295a51ff-bfe1-4ae3-b28b-324f451587c7@295a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Amruth Alfred\, HKU\nDate: 16 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11412.htm\n\n[Updated at 2026-06-28 07:02:43]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260616T073000Z
+SUMMARY:Lighting up Dark Matter with the Dragon
+UID:c12d6738-e953-4efb-8ca5-b9df8efa19fd@c12d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Darius Modirrousta-Galian\, TDLI\nDate: 2 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11052.htm\n\n[Updated at 2026-06-28 07:02:43]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260602T073000Z
+SUMMARY:On the connection between observed atmospheric abundances and planetary interiors and evolutions
+UID:d71caa74-9db1-4035-9e6d-83dbfcadc382@d71c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Unknown\nDate: 12 Jun 2026 - 12:00PM\nLink: http://kiaa.pku.edu.cn/info/1026/11372.htm\n\n[Updated at 2026-06-28 07:02:43]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260612T040000Z
+SUMMARY:2nd Beijing Physics\, Astrophysics and Cosmology Workshop (B-PAC)
+UID:1b1f5ced-8703-44ea-b82c-56964ec55c5d@1b1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Haonan Zheng\, KIAA\nDate: 29 Jun 2026 - 02:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/11482.htm\n\n[Updated at 2026-06-28 07:02:43]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260629T060000Z
 SUMMARY:Small Structures\, Cosmic Questions
-UID:69697318-698e-4600-8576-0359ec5837a2@6969.org
+UID:f9fb2a47-b69a-42ad-9866-9a01b9e039dc@f9fb.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Tomoya Kinugawa (Shinshu University）\nDate: 11 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10812.htm\n\n[Updated at 2026-06-27 07:06:23]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260611T073000Z
-SUMMARY:Gravitational Waves from First Star Remnants
-UID:14285326-06a2-46cc-b267-9576229ed033@1428.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Prof. Yue Shen\, University of Illinois at Urbana-Champaign\nDate: 23 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11402.htm\n\n[Updated at 2026-06-27 07:06:23]
+DESCRIPTION:Speaker: Prof. Yue Shen\, University of Illinois at Urbana-Champaign\nDate: 23 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11402.htm\n\n[Updated at 2026-06-28 07:02:43]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260623T073000Z
 SUMMARY:NEXUS: The North-ecliptic-pole EXtragalactic Unified Survey
-UID:b0f9177b-fd80-42f5-986f-91ad762b980a@b0f9.org
+UID:efa8f093-a188-4326-8337-f88580098dec@efa8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Tomoya Kinugawa (Shinshu University）\nDate: 11 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10812.htm\n\n[Updated at 2026-06-28 07:02:43]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260611T073000Z
+SUMMARY:Gravitational Waves from First Star Remnants
+UID:24787d37-53d0-4ac3-84a7-2bcee0bd763a@2478.org
 END:VEVENT
 END:VCALENDAR
