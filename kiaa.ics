@@ -2,83 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Prof. Yue Shen\, University of Illinois at Urbana-Champaign\nDate: 23 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11402.htm\n\n[Updated at 2026-07-01 07:13:50]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260623T073000Z
-SUMMARY:NEXUS: The North-ecliptic-pole EXtragalactic Unified Survey
-UID:47a57e8d-f59e-4bbe-acdc-ee16556c9f1f@47a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Hongping Deng (SHAO)\nDate: 4 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10962.htm\n\n[Updated at 2026-07-01 07:13:50]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260604T073000Z
-SUMMARY:Beyond the Circle: Spirals\, Warps\, and Eccentricity in Accretion Disks
-UID:bc830f89-c103-4351-8aeb-d6744d89bc2e@bc83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Prof. Shuo Kong\, Arizona\nDate: 9 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11382.htm\n\n[Updated at 2026-07-01 07:13:50]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260609T073000Z
-SUMMARY:Magnetically regulated molecular cloud formation
-UID:f3aba6d8-6e85-437d-b437-b1e499890d57@f3ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Unknown\nDate: 12 Jun 2026 - 12:00PM\nLink: http://kiaa.pku.edu.cn/info/1026/11372.htm\n\n[Updated at 2026-07-01 07:13:50]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260612T040000Z
-SUMMARY:2nd Beijing Physics\, Astrophysics and Cosmology Workshop (B-PAC)
-UID:75bd50b3-86f2-4c2c-82c4-eda201ec07be@75bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Amruth Alfred\, HKU\nDate: 16 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11412.htm\n\n[Updated at 2026-07-01 07:13:50]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260616T073000Z
-SUMMARY:Lighting up Dark Matter with the Dragon
-UID:5bb3514d-b614-4915-9d07-d96a4b95d7d6@5bb3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Haonan Zheng\, KIAA\nDate: 29 Jun 2026 - 02:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/11482.htm\n\n[Updated at 2026-07-01 07:13:50]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260629T060000Z
-SUMMARY:Small Structures\, Cosmic Questions
-UID:50ad4e1f-abf0-4286-8e9a-978537c10e5c@50ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Hangyuan Li\, Research Assistant at KIAA\nDate: 10 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11422.htm\n\n[Updated at 2026-07-01 07:13:50]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260610T073000Z
-SUMMARY:Fast\, flexible\, fully Bayesian modeling of HI galaxy kinematics with FABLE
-UID:18e07875-d150-4550-a9f0-055b57851f8b@18e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Darius Modirrousta-Galian\, TDLI\nDate: 2 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11052.htm\n\n[Updated at 2026-07-01 07:13:50]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260602T073000Z
-SUMMARY:On the connection between observed atmospheric abundances and planetary interiors and evolutions
-UID:4ca27682-5c4b-4a26-9cbf-a6ac117ecba5@4ca2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Tomoya Kinugawa (Shinshu University）\nDate: 11 Jun 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/10812.htm\n\n[Updated at 2026-07-01 07:13:50]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260611T073000Z
-SUMMARY:Gravitational Waves from First Star Remnants
-UID:c4d69215-b099-4d9c-9086-2318fe3e2de7@c4d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Zhaoxuan Liu\, CEA Paris-Saclay\nDate: 3 Jul 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11392.htm\n\n[Updated at 2026-07-01 07:13:50]
+DESCRIPTION:Speaker: Zhaoxuan Liu\, CEA Paris-Saclay\nDate: 3 Jul 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11392.htm\n\n[Updated at 2026-07-02 07:16:22]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260703T023000Z
 SUMMARY:How do mergers accelerate the buildup and transformation of massive galaxies?
-UID:e7c3cd31-4954-4761-b4d0-c3608becfb12@e7c3.org
+UID:cf20809e-074d-4dd0-b130-1cba0bd3edf1@cf20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Haonan Zheng\, KIAA\nDate: 29 Jun 2026 - 02:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/11482.htm\n\n[Updated at 2026-07-02 07:16:22]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260629T060000Z
+SUMMARY:Small Structures\, Cosmic Questions
+UID:335bafa3-e095-407c-8c46-a8e844dd68b0@335b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dr. Zehao Jin\, Fudan University\nDate: 7 Jul 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11492.htm\n\n[Updated at 2026-07-02 07:16:22]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260707T073000Z
+SUMMARY:Causal discovery in Astrophysics: from Planets\, Stars\, to Galaxies
+UID:58ccc9f9-4f06-4fb9-a3b5-9c9c0f8768d4@58cc.org
 END:VEVENT
 END:VCALENDAR
