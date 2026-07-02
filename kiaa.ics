@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Zhaoxuan Liu\, CEA Paris-Saclay\nDate: 3 Jul 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11392.htm\n\n[Updated at 2026-07-02 07:16:22]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260703T023000Z
-SUMMARY:How do mergers accelerate the buildup and transformation of massive galaxies?
-UID:cf20809e-074d-4dd0-b130-1cba0bd3edf1@cf20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Haonan Zheng\, KIAA\nDate: 29 Jun 2026 - 02:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/11482.htm\n\n[Updated at 2026-07-02 07:16:22]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260629T060000Z
-SUMMARY:Small Structures\, Cosmic Questions
-UID:335bafa3-e095-407c-8c46-a8e844dd68b0@335b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Zehao Jin\, Fudan University\nDate: 7 Jul 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11492.htm\n\n[Updated at 2026-07-02 07:16:22]
+DESCRIPTION:Speaker: Dr. Zehao Jin\, Fudan University\nDate: 7 Jul 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11492.htm\n\n[Updated at 2026-07-03 07:07:56]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260707T073000Z
 SUMMARY:Causal discovery in Astrophysics: from Planets\, Stars\, to Galaxies
-UID:58ccc9f9-4f06-4fb9-a3b5-9c9c0f8768d4@58cc.org
+UID:51e01541-5a9e-4c55-82dc-ed0550b2ec9e@51e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Haonan Zheng\, KIAA\nDate: 29 Jun 2026 - 02:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/11482.htm\n\n[Updated at 2026-07-03 07:07:56]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260629T060000Z
+SUMMARY:Small Structures\, Cosmic Questions
+UID:ac6d26ad-3b52-4fef-91cd-f0f39a49f13c@ac6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Zhaoxuan Liu\, CEA Paris-Saclay\nDate: 3 Jul 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11392.htm\n\n[Updated at 2026-07-03 07:07:56]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260703T023000Z
+SUMMARY:How do mergers accelerate the buildup and transformation of massive galaxies?
+UID:31886f68-c0a9-448b-9d3d-a2b903fa3964@3188.org
 END:VEVENT
 END:VCALENDAR
