@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Zehao Jin\, Fudan University\nDate: 7 Jul 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11492.htm\n\n[Updated at 2026-07-03 07:07:56]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260707T073000Z
-SUMMARY:Causal discovery in Astrophysics: from Planets\, Stars\, to Galaxies
-UID:51e01541-5a9e-4c55-82dc-ed0550b2ec9e@51e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Haonan Zheng\, KIAA\nDate: 29 Jun 2026 - 02:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/11482.htm\n\n[Updated at 2026-07-03 07:07:56]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260629T060000Z
-SUMMARY:Small Structures\, Cosmic Questions
-UID:ac6d26ad-3b52-4fef-91cd-f0f39a49f13c@ac6d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Zhaoxuan Liu\, CEA Paris-Saclay\nDate: 3 Jul 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11392.htm\n\n[Updated at 2026-07-03 07:07:56]
+DESCRIPTION:Speaker: Zhaoxuan Liu\, CEA Paris-Saclay\nDate: 3 Jul 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11392.htm\n\n[Updated at 2026-07-04 07:04:39]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260703T023000Z
 SUMMARY:How do mergers accelerate the buildup and transformation of massive galaxies?
-UID:31886f68-c0a9-448b-9d3d-a2b903fa3964@3188.org
+UID:eb4abdbc-7d71-4012-93ee-86e1199eb278@eb4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dr. Zehao Jin\, Fudan University\nDate: 7 Jul 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11492.htm\n\n[Updated at 2026-07-04 07:04:39]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260707T073000Z
+SUMMARY:Causal discovery in Astrophysics: from Planets\, Stars\, to Galaxies
+UID:e8f406b5-1427-4b25-b10c-cb16a2f356f7@e8f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Haonan Zheng\, KIAA\nDate: 29 Jun 2026 - 02:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/11482.htm\n\n[Updated at 2026-07-04 07:04:39]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260629T060000Z
+SUMMARY:Small Structures\, Cosmic Questions
+UID:70533080-70b6-4d54-a0e1-ca921e949096@7053.org
 END:VEVENT
 END:VCALENDAR
