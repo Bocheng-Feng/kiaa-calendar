@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Haonan Zheng\, KIAA\nDate: 29 Jun 2026 - 02:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/11482.htm\n\n[Updated at 2026-07-07 07:08:12]
+DESCRIPTION:Speaker: Haonan Zheng\, KIAA\nDate: 29 Jun 2026 - 02:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/11482.htm\n\n[Updated at 2026-07-08 07:01:49]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260629T060000Z
 SUMMARY:Small Structures\, Cosmic Questions
-UID:22fb8f33-b7bb-4dff-87ba-0c8acd511abd@22fb.org
+UID:ee388422-258b-41e9-bc43-3de30500358b@ee38.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Zhaoxuan Liu\, CEA Paris-Saclay\nDate: 3 Jul 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11392.htm\n\n[Updated at 2026-07-07 07:08:12]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260703T023000Z
-SUMMARY:How do mergers accelerate the buildup and transformation of massive galaxies?
-UID:4471f442-87a5-4754-be20-528ca7b6741d@4471.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Zehao Jin\, Fudan University\nDate: 7 Jul 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11492.htm\n\n[Updated at 2026-07-07 07:08:12]
+DESCRIPTION:Speaker: Dr. Zehao Jin\, Fudan University\nDate: 7 Jul 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11492.htm\n\n[Updated at 2026-07-08 07:01:49]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260707T073000Z
 SUMMARY:Causal discovery in Astrophysics: from Planets\, Stars\, to Galaxies
-UID:ad66a563-2ffb-42a3-afcd-3b5c4d84a242@ad66.org
+UID:c8b1c4f2-396e-45c0-8a2d-3aa1acf3ee92@c8b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Zhaoxuan Liu\, CEA Paris-Saclay\nDate: 3 Jul 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11392.htm\n\n[Updated at 2026-07-08 07:01:49]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260703T023000Z
+SUMMARY:How do mergers accelerate the buildup and transformation of massive galaxies?
+UID:e2638a75-a44d-40e8-b6b2-75e13a12efae@e263.org
 END:VEVENT
 END:VCALENDAR
