@@ -2,27 +2,35 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Haonan Zheng\, KIAA\nDate: 29 Jun 2026 - 02:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/11482.htm\n\n[Updated at 2026-07-12 06:49:09]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260629T060000Z
-SUMMARY:Small Structures\, Cosmic Questions
-UID:289191b7-edd7-4d77-9536-41d4aa2ffe52@2891.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Zhaoxuan Liu\, CEA Paris-Saclay\nDate: 3 Jul 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11392.htm\n\n[Updated at 2026-07-12 06:49:09]
+DESCRIPTION:Speaker: Zhaoxuan Liu\, CEA Paris-Saclay\nDate: 3 Jul 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11392.htm\n\n[Updated at 2026-07-13 06:49:47]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260703T023000Z
 SUMMARY:How do mergers accelerate the buildup and transformation of massive galaxies?
-UID:731c1b4e-a44e-4f93-bbe2-14d42205b729@731c.org
+UID:16a22724-f2b5-4740-9d9d-53ea0c31d947@16a2.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Zehao Jin\, Fudan University\nDate: 7 Jul 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11492.htm\n\n[Updated at 2026-07-12 06:49:09]
+DESCRIPTION:Speaker: Karl Glazebrook (Swinburne University of Technology)\nDate: 15 Jul 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/11522.htm\n\n[Updated at 2026-07-13 06:49:47]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260715T073000Z
+SUMMARY:Uniting the Three Kingdoms of Cosmic Dawn
+UID:a7024b96-e4d9-4801-ae63-7e7ee21f4ff4@a702.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dr. Zehao Jin\, Fudan University\nDate: 7 Jul 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11492.htm\n\n[Updated at 2026-07-13 06:49:47]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260707T073000Z
 SUMMARY:Causal discovery in Astrophysics: from Planets\, Stars\, to Galaxies
-UID:88e77a79-e987-49f6-bf26-e6d92b414a69@88e7.org
+UID:bc350f6a-ea35-4997-8391-fcc5a4ba57e3@bc35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Haonan Zheng\, KIAA\nDate: 29 Jun 2026 - 02:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/11482.htm\n\n[Updated at 2026-07-13 06:49:47]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260629T060000Z
+SUMMARY:Small Structures\, Cosmic Questions
+UID:fea7148c-7c8a-4b7e-b101-657099da8864@fea7.org
 END:VEVENT
 END:VCALENDAR
