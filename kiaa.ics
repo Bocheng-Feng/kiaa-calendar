@@ -2,35 +2,35 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Zhaoxuan Liu\, CEA Paris-Saclay\nDate: 3 Jul 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11392.htm\n\n[Updated at 2026-07-16 06:58:13]
+DESCRIPTION:Speaker: Zhaoxuan Liu\, CEA Paris-Saclay\nDate: 3 Jul 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11392.htm\n\n[Updated at 2026-07-17 06:56:34]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260703T023000Z
 SUMMARY:How do mergers accelerate the buildup and transformation of massive galaxies?
-UID:11e5bee0-2ef5-4beb-b8d0-4abd68327dbe@11e5.org
+UID:a5b40ab0-67e9-4ef7-9ea6-a978677695fa@a5b4.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Zehao Jin\, Fudan University\nDate: 7 Jul 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11492.htm\n\n[Updated at 2026-07-16 06:58:13]
+DESCRIPTION:Speaker: Dr. Zehao Jin\, Fudan University\nDate: 7 Jul 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11492.htm\n\n[Updated at 2026-07-17 06:56:34]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260707T073000Z
 SUMMARY:Causal discovery in Astrophysics: from Planets\, Stars\, to Galaxies
-UID:0f6402ee-df5e-41c6-9aa1-ede6844e2ca9@0f64.org
+UID:63bd8e2c-4d27-4f68-be0b-f0287828519c@63bd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Karl Glazebrook (Swinburne University of Technology)\nDate: 15 Jul 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/11522.htm\n\n[Updated at 2026-07-16 06:58:13]
+DESCRIPTION:Speaker: Karl Glazebrook (Swinburne University of Technology)\nDate: 15 Jul 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/11522.htm\n\n[Updated at 2026-07-17 06:56:34]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260715T073000Z
 SUMMARY:Uniting the Three Kingdoms of Cosmic Dawn
-UID:d9b27fb5-8a4f-4655-95cb-d774fb9a23c8@d9b2.org
+UID:96d329b6-7ae7-4028-8cd7-731f1d6f9835@96d3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Haonan Zheng\, KIAA\nDate: 29 Jun 2026 - 02:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/11482.htm\n\n[Updated at 2026-07-16 06:58:13]
+DESCRIPTION:Speaker: Haonan Zheng\, KIAA\nDate: 29 Jun 2026 - 02:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/11482.htm\n\n[Updated at 2026-07-17 06:56:34]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260629T060000Z
 SUMMARY:Small Structures\, Cosmic Questions
-UID:ccc039c9-315e-42d7-9607-29140073a640@ccc0.org
+UID:db7c52c1-d622-47ed-9319-9b6acf4cc376@db7c.org
 END:VEVENT
 END:VCALENDAR
