@@ -2,35 +2,35 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Zehao Jin\, Fudan University\nDate: 7 Jul 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11492.htm\n\n[Updated at 2026-07-21 07:00:49]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260707T073000Z
-SUMMARY:Causal discovery in Astrophysics: from Planets\, Stars\, to Galaxies
-UID:da89955c-1ad6-4cef-88a0-7021da15969f@da89.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Karl Glazebrook (Swinburne University of Technology)\nDate: 15 Jul 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/11522.htm\n\n[Updated at 2026-07-21 07:00:49]
+DESCRIPTION:Speaker: Karl Glazebrook (Swinburne University of Technology)\nDate: 15 Jul 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/11522.htm\n\n[Updated at 2026-07-22 06:57:10]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260715T073000Z
 SUMMARY:Uniting the Three Kingdoms of Cosmic Dawn
-UID:ce327f7f-87b5-4753-88fa-7e0c34efe638@ce32.org
+UID:ecfdd520-1458-4032-a50a-6297d0d37882@ecfd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Haonan Zheng\, KIAA\nDate: 29 Jun 2026 - 02:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/11482.htm\n\n[Updated at 2026-07-21 07:00:49]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260629T060000Z
-SUMMARY:Small Structures\, Cosmic Questions
-UID:f6a38286-99f2-499d-8832-732f4f9ad89f@f6a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Zhaoxuan Liu\, CEA Paris-Saclay\nDate: 3 Jul 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11392.htm\n\n[Updated at 2026-07-21 07:00:49]
+DESCRIPTION:Speaker: Zhaoxuan Liu\, CEA Paris-Saclay\nDate: 3 Jul 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11392.htm\n\n[Updated at 2026-07-22 06:57:10]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260703T023000Z
 SUMMARY:How do mergers accelerate the buildup and transformation of massive galaxies?
-UID:3c584cef-64b3-4f55-8382-648acfe7de57@3c58.org
+UID:ebd1c95c-0118-4b87-a155-341531f532ca@ebd1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dr. Zehao Jin\, Fudan University\nDate: 7 Jul 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11492.htm\n\n[Updated at 2026-07-22 06:57:10]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260707T073000Z
+SUMMARY:Causal discovery in Astrophysics: from Planets\, Stars\, to Galaxies
+UID:482a371f-e371-48ff-bffb-f607ab3c6d63@482a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Haonan Zheng\, KIAA\nDate: 29 Jun 2026 - 02:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/11482.htm\n\n[Updated at 2026-07-22 06:57:10]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260629T060000Z
+SUMMARY:Small Structures\, Cosmic Questions
+UID:0ea7a474-0ab3-4fdb-b27d-aedc29c93d28@0ea7.org
 END:VEVENT
 END:VCALENDAR
