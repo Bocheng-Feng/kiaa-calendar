@@ -2,43 +2,43 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Zhaoxuan Liu\, CEA Paris-Saclay\nDate: 3 Jul 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11392.htm\n\n[Updated at 2026-07-28 07:01:54]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260703T023000Z
-SUMMARY:How do mergers accelerate the buildup and transformation of massive galaxies?
-UID:5d0e43d7-1c33-47b2-904f-70620e2e0cff@5d0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Zehao Jin\, Fudan University\nDate: 7 Jul 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11492.htm\n\n[Updated at 2026-07-28 07:01:54]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260707T073000Z
-SUMMARY:Causal discovery in Astrophysics: from Planets\, Stars\, to Galaxies
-UID:13e86971-187c-400a-8dbc-97b4990268cd@13e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Haonan Zheng\, KIAA\nDate: 29 Jun 2026 - 02:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/11482.htm\n\n[Updated at 2026-07-28 07:01:54]
+DESCRIPTION:Speaker: Haonan Zheng\, KIAA\nDate: 29 Jun 2026 - 02:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/11482.htm\n\n[Updated at 2026-07-29 06:59:09]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260629T060000Z
 SUMMARY:Small Structures\, Cosmic Questions
-UID:bed31bf7-31f3-46a2-9e67-753bf9bf9ac7@bed3.org
+UID:f39b7aa8-b311-4587-aded-ce01e3bb2f07@f39b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Karl Glazebrook (Swinburne University of Technology)\nDate: 15 Jul 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/11522.htm\n\n[Updated at 2026-07-28 07:01:54]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260715T073000Z
-SUMMARY:Uniting the Three Kingdoms of Cosmic Dawn
-UID:be2e888c-f181-455c-810a-5a48f6454138@be2e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Erwin de Blok  (ASTRON\, Netherlands)\nDate: 30 Jul 2026 - 03:00PM\nLink: http://kiaa.pku.edu.cn/info/1024/11542.htm\n\n[Updated at 2026-07-28 07:01:54]
+DESCRIPTION:Speaker: Erwin de Blok  (ASTRON\, Netherlands)\nDate: 30 Jul 2026 - 03:00PM\nLink: http://kiaa.pku.edu.cn/info/1024/11542.htm\n\n[Updated at 2026-07-29 06:59:09]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260730T070000Z
 SUMMARY:A Deep Look at Neutral Hydrogen: Exploring the Outer Disks of Galaxies with MHONGOOSE and MeerKAT
-UID:53e52541-c97d-4c08-aa1f-af9a789db770@53e5.org
+UID:3b851d85-15ea-4f3e-b0f4-cc7472cd6dcd@3b85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Zhaoxuan Liu\, CEA Paris-Saclay\nDate: 3 Jul 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11392.htm\n\n[Updated at 2026-07-29 06:59:09]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260703T023000Z
+SUMMARY:How do mergers accelerate the buildup and transformation of massive galaxies?
+UID:315c5193-ddbc-4b83-81df-d92e002d81a0@315c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Karl Glazebrook (Swinburne University of Technology)\nDate: 15 Jul 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/11522.htm\n\n[Updated at 2026-07-29 06:59:09]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260715T073000Z
+SUMMARY:Uniting the Three Kingdoms of Cosmic Dawn
+UID:e87fee58-6f1f-455a-b22c-d46c87b63476@e87f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dr. Zehao Jin\, Fudan University\nDate: 7 Jul 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11492.htm\n\n[Updated at 2026-07-29 06:59:09]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260707T073000Z
+SUMMARY:Causal discovery in Astrophysics: from Planets\, Stars\, to Galaxies
+UID:89c73108-5383-4880-98f0-e28bd50bfe15@89c7.org
 END:VEVENT
 END:VCALENDAR
