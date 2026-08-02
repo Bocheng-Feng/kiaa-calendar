@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Erwin de Blok  (ASTRON\, Netherlands)\nDate: 30 Jul 2026 - 03:00PM\nLink: http://kiaa.pku.edu.cn/info/1024/11542.htm\n\n[Updated at 2026-08-02 06:55:39]
+DESCRIPTION:Speaker: Erwin de Blok  (ASTRON\, Netherlands)\nDate: 30 Jul 2026 - 03:00PM\nLink: http://kiaa.pku.edu.cn/info/1024/11542.htm\n\n[Updated at 2026-08-03 06:56:49]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260730T070000Z
 SUMMARY:A Deep Look at Neutral Hydrogen: Exploring the Outer Disks of Galaxies with MHONGOOSE and MeerKAT
-UID:824485ec-5e42-405e-b449-8026432b7fdd@8244.org
+UID:8d1ca25f-32fe-4f28-9e0e-306cbf138d28@8d1c.org
 END:VEVENT
 END:VCALENDAR
