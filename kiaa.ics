@@ -2,59 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Fabian Walter\nDate: 7 Aug 2026 - 01:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11652.htm\n\n[Updated at 2026-08-17 06:20:25]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260807T053000Z
-SUMMARY:The DSA2000: a Next Generation Interferometer
-UID:7f9579df-616b-4340-95cb-57dc28e310e1@7f95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Erwin de Blok  (ASTRON\, Netherlands)\nDate: 30 Jul 2026 - 03:00PM\nLink: http://kiaa.pku.edu.cn/info/1024/11542.htm\n\n[Updated at 2026-08-17 06:20:25]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260730T070000Z
-SUMMARY:A Deep Look at Neutral Hydrogen: Exploring the Outer Disks of Galaxies with MHONGOOSE and MeerKAT
-UID:d716f00d-8696-449b-b66f-cb862ff9b05f@d716.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Eva Schinnerer\nDate: 7 Aug 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11622.htm\n\n[Updated at 2026-08-17 06:20:25]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260807T023000Z
-SUMMARY:ALMA2040 — Towards a Next Generation Sub-mm Interferometer
-UID:5511fb07-f3c8-4adf-930b-9a4eb320a726@5511.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Fabian Walter\nDate: 5 Aug 2026 - 01:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11642.htm\n\n[Updated at 2026-08-17 06:20:25]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260805T053000Z
-SUMMARY:Molecular Deep Fields: Quantifying the Cosmic Baryon Cycle
-UID:ee85ca00-791b-4999-b939-26824f818dd8@ee85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Fabian Walter\nDate: 3 Aug 2026 - 01:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11632.htm\n\n[Updated at 2026-08-17 06:20:25]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260803T053000Z
-SUMMARY:Luminous Quasars and their Host Galaxies in the Reionization Era
-UID:f678dfb1-110b-4db2-b7e0-8b3cf21f2889@f678.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Eva Schinnerer\nDate: 5 Aug 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11612.htm\n\n[Updated at 2026-08-17 06:20:25]
+DESCRIPTION:Speaker: Eva Schinnerer\nDate: 5 Aug 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11612.htm\n\n[Updated at 2026-08-18 06:24:10]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260805T023000Z
 SUMMARY:Gas-rich galaxy centers as extreme star-forming environments
-UID:4d29af6a-2ee5-453e-b0c6-ad8365d734b6@4d29.org
+UID:619e1dc6-c76c-4dc1-89fc-41f90c1c49fa@619e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Eva Schinnerer\nDate: 3 Aug 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11602.htm\n\n[Updated at 2026-08-17 06:20:25]
+DESCRIPTION:Speaker: Fabian Walter\nDate: 3 Aug 2026 - 01:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11632.htm\n\n[Updated at 2026-08-18 06:24:10]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260803T053000Z
+SUMMARY:Luminous Quasars and their Host Galaxies in the Reionization Era
+UID:2a3407a4-39f8-4837-be3a-e9a0dec4e907@2a34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Eva Schinnerer\nDate: 7 Aug 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11622.htm\n\n[Updated at 2026-08-18 06:24:10]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260807T023000Z
+SUMMARY:ALMA2040 — Towards a Next Generation Sub-mm Interferometer
+UID:4f3cbc13-a41b-454f-bd54-00467059279c@4f3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Fabian Walter\nDate: 7 Aug 2026 - 01:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11652.htm\n\n[Updated at 2026-08-18 06:24:10]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260807T053000Z
+SUMMARY:The DSA2000: a Next Generation Interferometer
+UID:0247da01-45fd-49f9-b3d8-5af9e59e4db4@0247.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Erwin de Blok  (ASTRON\, Netherlands)\nDate: 30 Jul 2026 - 03:00PM\nLink: http://kiaa.pku.edu.cn/info/1024/11542.htm\n\n[Updated at 2026-08-18 06:24:10]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260730T070000Z
+SUMMARY:A Deep Look at Neutral Hydrogen: Exploring the Outer Disks of Galaxies with MHONGOOSE and MeerKAT
+UID:3c3327d5-a298-437e-b2e3-c1cb2eab5e74@3c33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Fabian Walter\nDate: 5 Aug 2026 - 01:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11642.htm\n\n[Updated at 2026-08-18 06:24:10]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260805T053000Z
+SUMMARY:Molecular Deep Fields: Quantifying the Cosmic Baryon Cycle
+UID:d9783f64-fc09-40aa-95c2-91791c76b6ea@d978.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Eva Schinnerer\nDate: 3 Aug 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11602.htm\n\n[Updated at 2026-08-18 06:24:10]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260803T023000Z
 SUMMARY:Molecular Gas and the Star Formation Process on Cloud Scales
-UID:c8078482-b000-44ed-8021-10c50a8d91ed@c807.org
+UID:ed484111-8ebd-45e9-bb48-467cc40dba13@ed48.org
 END:VEVENT
 END:VCALENDAR
