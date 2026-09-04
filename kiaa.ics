@@ -2,51 +2,51 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Genevive Bjorn (Higher Learning Lab) and Adam Burgasser (UC San Diego)\nDate: 4 Sep 2026 - 10:00AM\nLink: http://kiaa.pku.edu.cn/info/1025/11792.htm\n\n[Updated at 2026-09-04 07:48:42]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260904T020000Z
-SUMMARY:How to Critically Read the Scientific Literature
-UID:fdc00bd8-b51a-4d90-9eb0-8aaf85603632@fdc0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Unknown\nDate: 23 Sep 2026 - 09:00AM\nLink: http://kiaa.pku.edu.cn/info/1026/11872.htm\n\n[Updated at 2026-09-04 07:48:42]
+DESCRIPTION:Speaker: Unknown\nDate: 23 Sep 2026 - 09:00AM\nLink: http://kiaa.pku.edu.cn/info/1026/11872.htm\n\n[Updated at 2026-09-05 07:46:08]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260923T010000Z
 SUMMARY:KIAA Graduate Student Forum
-UID:bc324683-9cea-41e7-873d-f0f80e92204e@bc32.org
+UID:3ed97c60-8404-49e9-9d17-c7918bfdbb49@3ed9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Unknown\nDate: 1 Sep 2026 - 09:00AM\nLink: http://kiaa.pku.edu.cn/info/1026/11772.htm\n\n[Updated at 2026-09-04 07:48:42]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260901T010000Z
-SUMMARY:Mini-workshop: Scalar Fields in Astrophysics
-UID:3c58f515-0a61-4e16-a8f3-3fac374a8917@3c58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Prof. Sara Ellison (University of Victoria\, Canada)\nDate: 11 Sep 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11742.htm\n\n[Updated at 2026-09-04 07:48:42]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260911T073000Z
-SUMMARY:Clash of the Titans: Galaxy mergers in the nearby Universe
-UID:7bc33c60-97d6-40af-9bcc-f71483a9883e@7bc3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Prof. Sara Ellison (University of Victoria\, Canada)\nDate: 15 Sep 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11732.htm\n\n[Updated at 2026-09-04 07:48:42]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260915T073000Z
-SUMMARY:Gas and star formation in the nearby universe with the ALMA-MaNGA QUEnching and STar formation (ALMaQUEST) survey
-UID:58f4b62a-601b-4328-8096-3abb1226c3f6@58f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Daniela D. Doneva\nDate: 7 Sep 2026 - 10:00AM\nLink: http://kiaa.pku.edu.cn/info/1024/11782.htm\n\n[Updated at 2026-09-04 07:48:42]
+DESCRIPTION:Speaker: Daniela D. Doneva\nDate: 7 Sep 2026 - 10:00AM\nLink: http://kiaa.pku.edu.cn/info/1024/11782.htm\n\n[Updated at 2026-09-05 07:46:08]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260907T020000Z
 SUMMARY:Testing extreme gravity with gravitational waves
-UID:d737909c-53d2-49a3-aa3b-01a8ee789674@d737.org
+UID:620b5be6-cee8-4107-ab45-777e5e8409e5@620b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Unknown\nDate: 1 Sep 2026 - 09:00AM\nLink: http://kiaa.pku.edu.cn/info/1026/11772.htm\n\n[Updated at 2026-09-05 07:46:08]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260901T010000Z
+SUMMARY:Mini-workshop: Scalar Fields in Astrophysics
+UID:04f6dd31-68e8-4d1c-8d0c-71d3cb38a4b2@04f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Genevive Bjorn (Higher Learning Lab) and Adam Burgasser (UC San Diego)\nDate: 4 Sep 2026 - 10:00AM\nLink: http://kiaa.pku.edu.cn/info/1025/11792.htm\n\n[Updated at 2026-09-05 07:46:08]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260904T020000Z
+SUMMARY:How to Critically Read the Scientific Literature
+UID:24f0f93c-37da-494f-a9b7-61a870741929@24f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Prof. Sara Ellison (University of Victoria\, Canada)\nDate: 15 Sep 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11732.htm\n\n[Updated at 2026-09-05 07:46:08]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260915T073000Z
+SUMMARY:Gas and star formation in the nearby universe with the ALMA-MaNGA QUEnching and STar formation (ALMaQUEST) survey
+UID:0c26baaa-1e07-44d4-b794-9b61164d82d8@0c26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Prof. Sara Ellison (University of Victoria\, Canada)\nDate: 11 Sep 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11742.htm\n\n[Updated at 2026-09-05 07:46:08]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260911T073000Z
+SUMMARY:Clash of the Titans: Galaxy mergers in the nearby Universe
+UID:618b22ee-a170-42f7-8847-986f8460e525@618b.org
 END:VEVENT
 END:VCALENDAR
