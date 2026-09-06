@@ -2,51 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Prof. Sara Ellison (University of Victoria\, Canada)\nDate: 15 Sep 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11732.htm\n\n[Updated at 2026-09-06 07:35:17]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260915T073000Z
-SUMMARY:Gas and star formation in the nearby universe with the ALMA-MaNGA QUEnching and STar formation (ALMaQUEST) survey
-UID:963ace53-1e05-4a63-95a7-d27250c841a1@963a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Daniela D. Doneva\nDate: 7 Sep 2026 - 10:00AM\nLink: http://kiaa.pku.edu.cn/info/1024/11782.htm\n\n[Updated at 2026-09-06 07:35:17]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260907T020000Z
-SUMMARY:Testing extreme gravity with gravitational waves
-UID:cdbfd583-74ac-42e2-8f22-1c8adae09780@cdbf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Unknown\nDate: 23 Sep 2026 - 09:00AM\nLink: http://kiaa.pku.edu.cn/info/1026/11872.htm\n\n[Updated at 2026-09-06 07:35:17]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260923T010000Z
-SUMMARY:KIAA Graduate Student Forum
-UID:10acc5f3-00d2-4695-a35b-be6a4629484b@10ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Prof. Sara Ellison (University of Victoria\, Canada)\nDate: 11 Sep 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11742.htm\n\n[Updated at 2026-09-06 07:35:17]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260911T073000Z
-SUMMARY:Clash of the Titans: Galaxy mergers in the nearby Universe
-UID:0332de44-de2e-4d03-981d-e86f62dca604@0332.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Unknown\nDate: 1 Sep 2026 - 09:00AM\nLink: http://kiaa.pku.edu.cn/info/1026/11772.htm\n\n[Updated at 2026-09-06 07:35:17]
+DESCRIPTION:Speaker: Unknown\nDate: 1 Sep 2026 - 09:00AM\nLink: http://kiaa.pku.edu.cn/info/1026/11772.htm\n\n[Updated at 2026-09-07 07:32:12]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260901T010000Z
 SUMMARY:Mini-workshop: Scalar Fields in Astrophysics
-UID:9598d66a-9c05-4df4-87ad-5ed3026eda2f@9598.org
+UID:c1402138-a0ac-42fb-9e2c-ff3fdb0ca3aa@c140.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Genevive Bjorn (Higher Learning Lab) and Adam Burgasser (UC San Diego)\nDate: 4 Sep 2026 - 10:00AM\nLink: http://kiaa.pku.edu.cn/info/1025/11792.htm\n\n[Updated at 2026-09-06 07:35:17]
+DESCRIPTION:Speaker: Daniela D. Doneva\nDate: 7 Sep 2026 - 10:00AM\nLink: http://kiaa.pku.edu.cn/info/1024/11782.htm\n\n[Updated at 2026-09-07 07:32:12]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260907T020000Z
+SUMMARY:Testing extreme gravity with gravitational waves
+UID:091b26f4-09d8-4012-946c-a05f25d70cc4@091b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Genevive Bjorn (Higher Learning Lab) and Adam Burgasser (UC San Diego)\nDate: 4 Sep 2026 - 10:00AM\nLink: http://kiaa.pku.edu.cn/info/1025/11792.htm\n\n[Updated at 2026-09-07 07:32:12]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260904T020000Z
 SUMMARY:How to Critically Read the Scientific Literature
-UID:5c317e8b-d610-4b30-b6ab-4e92ac548b83@5c31.org
+UID:145bca60-21f4-401c-aa66-7750e44d3091@145b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Bohan Yue (Oxford University\, UK)\nDate: 28 Sep 2026 - 04:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/11902.htm\n\n[Updated at 2026-09-07 07:32:12]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260928T080000Z
+SUMMARY:New insights to the jet powering mechanism in radio quasars from the LOFAR Two-metre Sky Survey (LoTSS)
+UID:dddd1aeb-f5f8-4bae-90cd-ad42ea574923@dddd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Prof. Sara Ellison (University of Victoria\, Canada)\nDate: 15 Sep 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11732.htm\n\n[Updated at 2026-09-07 07:32:12]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260915T073000Z
+SUMMARY:Gas and star formation in the nearby universe with the ALMA-MaNGA QUEnching and STar formation (ALMaQUEST) survey
+UID:e0964719-c718-4bc0-b059-0a450357187e@e096.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Prof. Sara Ellison (University of Victoria\, Canada)\nDate: 11 Sep 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11742.htm\n\n[Updated at 2026-09-07 07:32:12]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260911T073000Z
+SUMMARY:Clash of the Titans: Galaxy mergers in the nearby Universe
+UID:a86cbc54-89a8-41c1-b71c-983530df82ea@a86c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Unknown\nDate: 23 Sep 2026 - 09:00AM\nLink: http://kiaa.pku.edu.cn/info/1026/11872.htm\n\n[Updated at 2026-09-07 07:32:12]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260923T010000Z
+SUMMARY:KIAA Graduate Student Forum
+UID:68b50713-15e4-4788-83dc-0b2a6a35b8a1@68b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Zefeng Li (Durham University\, UK)\nDate: 28 Sep 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11892.htm\n\n[Updated at 2026-09-07 07:32:12]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260928T073000Z
+SUMMARY:Galaxy Evolution in Spatially Resolved Instruments
+UID:b75b2080-a896-4865-ac74-754daa562588@b75b.org
 END:VEVENT
 END:VCALENDAR
