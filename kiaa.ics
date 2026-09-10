@@ -1,84 +1,9 @@
 BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:ics.py - http://git.io/lLljaA
+PRODID:-//Error//CN
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Zefeng Li (Durham University\, UK)\nDate: 28 Sep 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11892.htm\n\n[Updated at 2026-09-10 07:51:21]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260928T073000Z
-SUMMARY:Galaxy Evolution in Spatially Resolved Instruments
-UID:6e544d8f-40af-46e9-8a4e-a039cbc58ffd@6e54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Xiaolong Du（Nankai University）\nDate: 10 Sep 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/11922.htm\n\n[Updated at 2026-09-10 07:51:21]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260910T073000Z
-SUMMARY:What Small-Scale Cosmic Structure Tells Us about Dark Matter
-UID:801584ad-64d0-4cf0-aad2-fb898711c6aa@8015.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Bohan Yue (Oxford University\, UK)\nDate: 28 Sep 2026 - 04:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/11902.htm\n\n[Updated at 2026-09-10 07:51:21]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260928T080000Z
-SUMMARY:New insights to the jet powering mechanism in radio quasars from the LOFAR Two-metre Sky Survey (LoTSS)
-UID:4b9e4616-aa88-4540-8e3b-73af254ebb63@4b9e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Prof. Sara Ellison (University of Victoria\, Canada)\nDate: 11 Sep 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11742.htm\n\n[Updated at 2026-09-10 07:51:21]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260911T073000Z
-SUMMARY:Clash of the Titans: Galaxy mergers in the nearby Universe
-UID:9a17f408-08cf-49e0-b7b7-7c0358120f0b@9a17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Genevive Bjorn (Higher Learning Lab) and Adam Burgasser (UC San Diego)\nDate: 4 Sep 2026 - 10:00AM\nLink: http://kiaa.pku.edu.cn/info/1025/11792.htm\n\n[Updated at 2026-09-10 07:51:21]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260904T020000Z
-SUMMARY:How to Critically Read the Scientific Literature
-UID:cc77753b-13c1-45b6-ad36-6888f0bec8fc@cc77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Daniela D. Doneva\nDate: 7 Sep 2026 - 10:00AM\nLink: http://kiaa.pku.edu.cn/info/1024/11782.htm\n\n[Updated at 2026-09-10 07:51:21]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260907T020000Z
-SUMMARY:Testing extreme gravity with gravitational waves
-UID:f1c7080c-17bd-4262-b5d0-955a627b9101@f1c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Prof. Sara Ellison (University of Victoria\, Canada)\nDate: 15 Sep 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11732.htm\n\n[Updated at 2026-09-10 07:51:21]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260915T073000Z
-SUMMARY:Gas and star formation in the nearby universe with the ALMA-MaNGA QUEnching and STar formation (ALMaQUEST) survey
-UID:a119af93-5ace-4af0-ad24-6f7a6a23d9ef@a119.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Fengwei Xu (Max Planck Institute for Astronomy in Heidelberg)\nDate: 17 Sep 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11932.htm\n\n[Updated at 2026-09-10 07:51:21]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260917T023000Z
-SUMMARY:The Multiscale Habitat of Massive Star Clusters: From Galactic Filamentary Clouds to Star-forming Cores
-UID:ba2c0918-5fbd-4439-b4ea-739d7108d3ac@ba2c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Unknown\nDate: 23 Sep 2026 - 09:00AM\nLink: http://kiaa.pku.edu.cn/info/1026/11872.htm\n\n[Updated at 2026-09-10 07:51:21]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260923T010000Z
-SUMMARY:KIAA Graduate Student Forum
-UID:112c8821-f09d-4018-ba05-f0860c2a00d1@112c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Unknown\nDate: 1 Sep 2026 - 09:00AM\nLink: http://kiaa.pku.edu.cn/info/1026/11772.htm\n\n[Updated at 2026-09-10 07:51:21]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260901T010000Z
-SUMMARY:Mini-workshop: Scalar Fields in Astrophysics
-UID:4d049fc7-b6f8-44bb-b96c-5608eae01a47@4d04.org
+SUMMARY:Error Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://kiaa.pku.edu.cn/Activities/Events_Calendar.htm", waiting until "load"
+
 END:VEVENT
 END:VCALENDAR
