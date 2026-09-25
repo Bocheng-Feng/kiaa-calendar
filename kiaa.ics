@@ -2,99 +2,107 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Fengwei Xu (Max Planck Institute for Astronomy in Heidelberg)\nDate: 17 Sep 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11932.htm\n\n[Updated at 2026-09-24 08:16:02]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260917T023000Z
-SUMMARY:The Multiscale Habitat of Massive Star Clusters: From Galactic Filamentary Clouds to Star-forming Cores
-UID:2200071d-b519-429f-8b99-e3a99309d6b4@2200.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Prof. Sara Ellison (University of Victoria\, Canada)\nDate: 11 Sep 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11742.htm\n\n[Updated at 2026-09-24 08:16:02]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260911T073000Z
-SUMMARY:Clash of the Titans: Galaxy mergers in the nearby Universe
-UID:d4327611-ae48-4139-8f80-cc1bd3473c55@d432.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Bohan Yue (Oxford University\, UK)\nDate: 28 Sep 2026 - 04:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/11902.htm\n\n[Updated at 2026-09-24 08:16:02]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260928T080000Z
-SUMMARY:New insights to the jet powering mechanism in radio quasars from the LOFAR Two-metre Sky Survey (LoTSS)
-UID:9f3e2e16-b7eb-4262-a23c-518f3dd2d18c@9f3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Unknown\nDate: 1 Sep 2026 - 09:00AM\nLink: http://kiaa.pku.edu.cn/info/1026/11772.htm\n\n[Updated at 2026-09-24 08:16:02]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260901T010000Z
-SUMMARY:Mini-workshop: Scalar Fields in Astrophysics
-UID:7e0bf4a2-cae3-4901-a165-47d9b6293777@7e0b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Genevive Bjorn (Higher Learning Lab) and Adam Burgasser (UC San Diego)\nDate: 4 Sep 2026 - 10:00AM\nLink: http://kiaa.pku.edu.cn/info/1025/11792.htm\n\n[Updated at 2026-09-24 08:16:02]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260904T020000Z
-SUMMARY:How to Critically Read the Scientific Literature
-UID:dc7e9416-de5e-42aa-87c1-ce0a870ee15c@dc7e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Unknown\nDate: 23 Sep 2026 - 09:00AM\nLink: http://kiaa.pku.edu.cn/info/1026/11872.htm\n\n[Updated at 2026-09-24 08:16:02]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260923T010000Z
-SUMMARY:KIAA Graduate Student Forum
-UID:aaf374fd-a12d-478b-b886-7f88f9759f71@aaf3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Daniel Harsono (National Tsing Hua University)\nDate: 17 Sep 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/11972.htm\n\n[Updated at 2026-09-24 08:16:02]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260917T073000Z
-SUMMARY:Tracing the inventory of planet-forming disks with JWST and ALMA
-UID:e9a91ba9-052b-45d0-9bb8-d5cbe90d6879@e9a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Zefeng Li (Durham University\, UK)\nDate: 28 Sep 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11892.htm\n\n[Updated at 2026-09-24 08:16:02]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260928T073000Z
-SUMMARY:Galaxy Evolution in Spatially Resolved Instruments
-UID:4fb874c7-191f-4c60-a8e5-3d762a68c237@4fb8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Daniela D. Doneva\nDate: 7 Sep 2026 - 10:00AM\nLink: http://kiaa.pku.edu.cn/info/1024/11782.htm\n\n[Updated at 2026-09-24 08:16:02]
+DESCRIPTION:Speaker: Daniela D. Doneva\nDate: 7 Sep 2026 - 10:00AM\nLink: http://kiaa.pku.edu.cn/info/1024/11782.htm\n\n[Updated at 2026-09-25 08:18:24]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260907T020000Z
 SUMMARY:Testing extreme gravity with gravitational waves
-UID:6e53ede3-1d8f-41e6-8173-459bd361ffdf@6e53.org
+UID:54dcc090-b1a0-4ed3-a882-e44131d04884@54dc.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Unknown\nDate: 25 Sep 2026 - 01:00PM\nLink: http://kiaa.pku.edu.cn/info/1026/11942.htm\n\n[Updated at 2026-09-24 08:16:02]
+DESCRIPTION:Speaker: Bohan Yue (Oxford University\, UK)\nDate: 28 Sep 2026 - 04:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/11902.htm\n\n[Updated at 2026-09-25 08:18:24]
 DURATION:PT1H
 LOCATION:KIAA
-DTSTART:20260925T050000Z
-SUMMARY:The PKU Undergraduate Astronomy Symposium
-UID:35b25842-a243-4236-a89e-c2cdb4e7bab2@35b2.org
+DTSTART:20260928T080000Z
+SUMMARY:New insights to the jet powering mechanism in radio quasars from the LOFAR Two-metre Sky Survey (LoTSS)
+UID:afeb0a9a-8869-4a67-867c-86bb8cd684b5@afeb.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Xiaolong Du（Nankai University）\nDate: 10 Sep 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/11922.htm\n\n[Updated at 2026-09-24 08:16:02]
+DESCRIPTION:Speaker: Unknown\nDate: 1 Sep 2026 - 09:00AM\nLink: http://kiaa.pku.edu.cn/info/1026/11772.htm\n\n[Updated at 2026-09-25 08:18:24]
 DURATION:PT1H
 LOCATION:KIAA
-DTSTART:20260910T073000Z
-SUMMARY:What Small-Scale Cosmic Structure Tells Us about Dark Matter
-UID:d2ca0fc7-7d11-49ea-8d9b-509ed0dd3ea7@d2ca.org
+DTSTART:20260901T010000Z
+SUMMARY:Mini-workshop: Scalar Fields in Astrophysics
+UID:13bec4ed-204c-40a6-9d69-e50db3e3636c@13be.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Sara Ellison (University of Victoria)\nDate: 15 Sep 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/11982.htm\n\n[Updated at 2026-09-24 08:16:02]
+DESCRIPTION:Speaker: Zefeng Li (Durham University\, UK)\nDate: 28 Sep 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11892.htm\n\n[Updated at 2026-09-25 08:18:24]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260928T073000Z
+SUMMARY:Galaxy Evolution in Spatially Resolved Instruments
+UID:3c11e628-3276-4649-b6e6-40c2d62e9ea0@3c11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Prof. Sara Ellison (University of Victoria\, Canada)\nDate: 11 Sep 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11742.htm\n\n[Updated at 2026-09-25 08:18:24]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260911T073000Z
+SUMMARY:Clash of the Titans: Galaxy mergers in the nearby Universe
+UID:cb6dfcef-b780-4e5c-b040-da5505950622@cb6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Sara Ellison (University of Victoria)\nDate: 15 Sep 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/11982.htm\n\n[Updated at 2026-09-25 08:18:24]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260915T073000Z
 SUMMARY:Gas and star formation in the nearby universe with the ALMA-MaNGA QUEnching and STar formation (ALMaQUEST) survey.
-UID:f3c4fa48-e7e2-41fd-99d1-0ac0babf501d@f3c4.org
+UID:2d022dfc-ab66-4e7e-8fbc-6aa740928bb7@2d02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dr. Fengwei Xu (Max Planck Institute for Astronomy in Heidelberg)\nDate: 17 Sep 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11932.htm\n\n[Updated at 2026-09-25 08:18:24]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260917T023000Z
+SUMMARY:The Multiscale Habitat of Massive Star Clusters: From Galactic Filamentary Clouds to Star-forming Cores
+UID:d149f0d7-1654-4644-bd07-e4b2b7000294@d149.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Unknown\nDate: 25 Sep 2026 - 01:00PM\nLink: http://kiaa.pku.edu.cn/info/1026/11942.htm\n\n[Updated at 2026-09-25 08:18:24]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260925T050000Z
+SUMMARY:The PKU Undergraduate Astronomy Symposium
+UID:a744db59-3713-43ec-8943-c2a9f795e218@a744.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Unknown\nDate: 8 Oct 2026 - 07:00PM\nLink: http://kiaa.pku.edu.cn/info/1089/12082.htm\n\n[Updated at 2026-09-25 08:18:24]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261008T110000Z
+SUMMARY:Public talk: Building stars\, planets and the ingredients for life in space
+UID:ba87730d-d944-46f9-b189-e71c06a7d743@ba87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Genevive Bjorn (Higher Learning Lab) and Adam Burgasser (UC San Diego)\nDate: 4 Sep 2026 - 10:00AM\nLink: http://kiaa.pku.edu.cn/info/1025/11792.htm\n\n[Updated at 2026-09-25 08:18:24]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260904T020000Z
+SUMMARY:How to Critically Read the Scientific Literature
+UID:37060753-026b-4c7e-8dc8-35a0a198935d@3706.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Xiaolong Du（Nankai University）\nDate: 10 Sep 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/11922.htm\n\n[Updated at 2026-09-25 08:18:24]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260910T073000Z
+SUMMARY:What Small-Scale Cosmic Structure Tells Us about Dark Matter
+UID:4e514714-765c-4870-a88a-5b55758a2a44@4e51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Unknown\nDate: 23 Sep 2026 - 09:00AM\nLink: http://kiaa.pku.edu.cn/info/1026/11872.htm\n\n[Updated at 2026-09-25 08:18:24]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260923T010000Z
+SUMMARY:KIAA Graduate Student Forum
+UID:e2b8b4ac-913a-4372-a066-4a08c152672d@e2b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Daniel Harsono (National Tsing Hua University)\nDate: 17 Sep 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/11972.htm\n\n[Updated at 2026-09-25 08:18:24]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260917T073000Z
+SUMMARY:Tracing the inventory of planet-forming disks with JWST and ALMA
+UID:82ca0e6d-21cc-4e4d-8f75-3574dd68b669@82ca.org
 END:VEVENT
 END:VCALENDAR
