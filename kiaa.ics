@@ -1,9 +1,132 @@
 BEGIN:VCALENDAR
-PRODID:-//Error//CN
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-SUMMARY:Error Page.goto: Timeout 60000ms exceeded.
-Call log:
-  - navigating to "https://kiaa.pku.edu.cn/Activities/Events_Calendar.htm", waiting until "load"
-
+DESCRIPTION:Speaker: Unknown\nDate: 8 Oct 2026 - 07:00PM\nLink: http://kiaa.pku.edu.cn/info/1089/12082.htm\n\n[Updated at 2026-10-29 09:37:49]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261008T110000Z
+SUMMARY:Public talk: Building stars\, planets and the ingredients for life in space
+UID:7ea6f58b-e346-4bd6-91b9-a52a49eb0943@7ea6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dr. Jinhong Chen (HKU)\nDate: 15 Oct 2026 - 10:00AM\nLink: http://kiaa.pku.edu.cn/info/1025/11992.htm\n\n[Updated at 2026-10-29 09:37:49]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261015T020000Z
+SUMMARY:A Multimessenger Journey into White Dwarf Tidal Disruption Events by Intermediate-Mass Black Holes
+UID:96a0ccdb-3689-4e6e-a836-c7cf5786efc8@96a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: John Bally (Astrophysical and Planetary Sciences\, University of Colorado\, USA)\nDate: 27 Oct 2026 - 10:00AM\nLink: http://kiaa.pku.edu.cn/info/1026/12372.htm\n\n[Updated at 2026-10-29 09:37:49]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261027T020000Z
+SUMMARY:Star Formation:  Jets\, explosions\, N-body interactions
+UID:96cb16c6-5352-4364-a46b-98ca41821730@96cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Bohan Yue (Oxford University\, UK)\nDate: 28 Sep 2026 - 04:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/11902.htm\n\n[Updated at 2026-10-29 09:37:49]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260928T080000Z
+SUMMARY:New insights to the jet powering mechanism in radio quasars from the LOFAR Two-metre Sky Survey (LoTSS)
+UID:592af849-079f-413c-a347-826fd87b5900@592a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Joop Schaye (LeidenUniversity)\nDate: 2 Nov 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/12432.htm\n\n[Updated at 2026-10-29 09:37:49]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261102T073000Z
+SUMMARY:Cosmological simulations of galaxy formation
+UID:3279533f-314a-44af-b81f-45ad283348fe@3279.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Unknown\nDate: 19 Oct 2026 - 09:00AM\nLink: http://kiaa.pku.edu.cn/info/1026/12312.htm\n\n[Updated at 2026-10-29 09:37:49]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261019T010000Z
+SUMMARY:The First LOTUS Science Meeting
+UID:a7da911f-82e7-45fe-87a4-3cf0fbf19a19@a7da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Andrew Lawrence Miller (ICTP-AP)\nDate: 22 Oct 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/12342.htm\n\n[Updated at 2026-10-29 09:37:49]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261022T073000Z
+SUMMARY:From Ultralight to Macroscopic Dark Matter: A Window into the Dark Sector with Gravitational Waves
+UID:ac741f72-4019-4d19-9864-c4d6c54bc72f@ac74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Zefeng Li (Durham University\, UK)\nDate: 28 Sep 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11892.htm\n\n[Updated at 2026-10-29 09:37:49]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260928T073000Z
+SUMMARY:Galaxy Evolution in Spatially Resolved Instruments
+UID:a61f7cd4-f09b-4277-b937-7f50178383c5@a61f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dr. Yinuo Han (Caltech)\nDate: 27 Oct 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11712.htm\n\n[Updated at 2026-10-29 09:37:49]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261027T073000Z
+SUMMARY:The planetesimal formation outcome probed by debris disk structures
+UID:6f38444a-9aa0-4d9d-90c1-3a64e4935499@6f38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Yuming Fu (Leiden University)\nDate: 21 Oct 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11912.htm\n\n[Updated at 2026-10-29 09:37:49]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261021T023000Z
+SUMMARY:From quasar surveys to AGN physics at scale: Euclid\, DESI\, and representation learning
+UID:5bd355f9-c1da-42f9-9ab2-409910271d44@5bd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Hao He (University of Bonn)\nDate: 20 Oct 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/12102.htm\n\n[Updated at 2026-10-29 09:37:49]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261020T073000Z
+SUMMARY:Quantifying the local gas structure around star-forming regions
+UID:90cf335d-2450-43ee-99ec-c262fae46ce5@90cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Rongrong Liu\, Harvard\nDate: 3 Nov 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11952.htm\n\n[Updated at 2026-10-29 09:37:49]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261103T073000Z
+SUMMARY:Rongrong Liu's Seminar Talk
+UID:de89ebeb-ab55-4b9d-bd27-48a300e67429@de89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Yue Zhao (Hong Kong University of Science and Technology)\nDate: 15 Oct 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/12242.htm\n\n[Updated at 2026-10-29 09:37:49]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261015T073000Z
+SUMMARY:Astrophysical probes to new physics beyond the Standard Model
+UID:2cc7911b-6e42-4251-aac7-6b852d50e879@2cc7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Yiming Dong\nDate: 12 Oct 2026 - 07:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/12252.htm\n\n[Updated at 2026-10-29 09:37:49]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261012T113000Z
+SUMMARY:AI Workshop
+UID:e9889699-daf4-4ae5-a448-ffd4e4fed0ba@e988.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Robert Wimmer\, American Physical Society\nDate: 30 Oct 2026 - 11:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/12352.htm\n\n[Updated at 2026-10-29 09:37:49]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261030T033000Z
+SUMMARY:The Physical Review: Review Process & Publishing in an Artificial Intelligence World
+UID:9445c77d-33df-4a35-9ea1-21c8d391df7b@9445.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Sheperd Doeleman\, Harvard & Smithsonian\nDate: 28 Oct 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/12422.htm\n\n[Updated at 2026-10-29 09:37:49]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261028T023000Z
+SUMMARY:EHT and Black Hole Research: An Informal Discussion with Sheperd Doeleman
+UID:9ed26dda-537d-4d74-8830-ae21202a3597@9ed2.org
 END:VEVENT
 END:VCALENDAR
