@@ -2,131 +2,131 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Bohan Yue (Oxford University\, UK)\nDate: 28 Sep 2026 - 04:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/11902.htm\n\n[Updated at 2026-10-30 09:36:17]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20260928T080000Z
-SUMMARY:New insights to the jet powering mechanism in radio quasars from the LOFAR Two-metre Sky Survey (LoTSS)
-UID:6d27f125-1a1b-4837-8f87-48468af6419d@6d27.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Rongrong Liu\, CfA Harvard & Smithsonian\nDate: 3 Nov 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11952.htm\n\n[Updated at 2026-10-30 09:36:17]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20261103T073000Z
-SUMMARY:The Lumina Project: How Assembly History Shapes Galaxy Disk Sizes across Cosmic Time
-UID:11f05f75-2bba-4fbc-84ea-552b7a072707@11f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Hao He (University of Bonn)\nDate: 20 Oct 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/12102.htm\n\n[Updated at 2026-10-30 09:36:17]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20261020T073000Z
-SUMMARY:Quantifying the local gas structure around star-forming regions
-UID:7f58089f-6fe5-44a5-94ff-3069a4bdeb82@7f58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Robert Wimmer\, American Physical Society\nDate: 30 Oct 2026 - 11:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/12352.htm\n\n[Updated at 2026-10-30 09:36:17]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20261030T033000Z
-SUMMARY:The Physical Review: Review Process & Publishing in an Artificial Intelligence World
-UID:1f6d4be5-a4d4-4679-8189-c524a9fb8aa9@1f6d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: John Bally (Astrophysical and Planetary Sciences\, University of Colorado\, USA)\nDate: 27 Oct 2026 - 10:00AM\nLink: http://kiaa.pku.edu.cn/info/1026/12372.htm\n\n[Updated at 2026-10-30 09:36:17]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20261027T020000Z
-SUMMARY:Star Formation:  Jets\, explosions\, N-body interactions
-UID:c39dd616-53c1-4e81-b3ee-ab7eb267ce38@c39d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Joop Schaye (LeidenUniversity)\nDate: 2 Nov 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/12432.htm\n\n[Updated at 2026-10-30 09:36:17]
+DESCRIPTION:Speaker: Joop Schaye (LeidenUniversity)\nDate: 2 Nov 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/12432.htm\n\n[Updated at 2026-10-31 09:26:12]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20261102T073000Z
 SUMMARY:Cosmological simulations of galaxy formation
-UID:34c77f9e-4ec4-46ac-8072-37665f15f635@34c7.org
+UID:1f0dcff4-7470-49f5-a2cb-474791657ca8@1f0d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Unknown\nDate: 19 Oct 2026 - 09:00AM\nLink: http://kiaa.pku.edu.cn/info/1026/12312.htm\n\n[Updated at 2026-10-30 09:36:17]
+DESCRIPTION:Speaker: Unknown\nDate: 19 Oct 2026 - 09:00AM\nLink: http://kiaa.pku.edu.cn/info/1026/12312.htm\n\n[Updated at 2026-10-31 09:26:12]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20261019T010000Z
 SUMMARY:The First LOTUS Science Meeting
-UID:41b2664d-3840-4098-8f90-17da0f888fa4@41b2.org
+UID:00b8ea63-8d2f-4ae3-988c-00ca70c45ce3@00b8.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Unknown\nDate: 8 Oct 2026 - 07:00PM\nLink: http://kiaa.pku.edu.cn/info/1089/12082.htm\n\n[Updated at 2026-10-30 09:36:17]
+DESCRIPTION:Speaker: Unknown\nDate: 8 Oct 2026 - 07:00PM\nLink: http://kiaa.pku.edu.cn/info/1089/12082.htm\n\n[Updated at 2026-10-31 09:26:12]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20261008T110000Z
 SUMMARY:Public talk: Building stars\, planets and the ingredients for life in space
-UID:20ccdf2a-d3ae-4288-a5d0-85447bbf010a@20cc.org
+UID:7163b3ea-a74e-4bfa-807d-044ae4e7ddc8@7163.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Yiming Dong\nDate: 12 Oct 2026 - 07:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/12252.htm\n\n[Updated at 2026-10-30 09:36:17]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20261012T113000Z
-SUMMARY:AI Workshop
-UID:c683ff09-8e21-45f0-8599-7b0c1340948e@c683.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Yuming Fu (Leiden University)\nDate: 21 Oct 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11912.htm\n\n[Updated at 2026-10-30 09:36:17]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20261021T023000Z
-SUMMARY:From quasar surveys to AGN physics at scale: Euclid\, DESI\, and representation learning
-UID:b90d6ac7-a62f-410d-a239-857b8d3ae29d@b90d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Jinhong Chen (HKU)\nDate: 15 Oct 2026 - 10:00AM\nLink: http://kiaa.pku.edu.cn/info/1025/11992.htm\n\n[Updated at 2026-10-30 09:36:17]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20261015T020000Z
-SUMMARY:A Multimessenger Journey into White Dwarf Tidal Disruption Events by Intermediate-Mass Black Holes
-UID:54dbbb53-048c-4c22-bfba-5adf8f3dfa51@54db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Sheperd Doeleman\, Harvard & Smithsonian\nDate: 28 Oct 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/12422.htm\n\n[Updated at 2026-10-30 09:36:17]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20261028T023000Z
-SUMMARY:EHT and Black Hole Research: An Informal Discussion with Sheperd Doeleman
-UID:bcbd2b3a-5862-4921-b33c-50ba8950b0c5@bcbd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Yinuo Han (Caltech)\nDate: 27 Oct 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11712.htm\n\n[Updated at 2026-10-30 09:36:17]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20261027T073000Z
-SUMMARY:The planetesimal formation outcome probed by debris disk structures
-UID:95fda71b-ebaa-419e-b695-825beedf92e8@95fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Andrew Lawrence Miller (ICTP-AP)\nDate: 22 Oct 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/12342.htm\n\n[Updated at 2026-10-30 09:36:17]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20261022T073000Z
-SUMMARY:From Ultralight to Macroscopic Dark Matter: A Window into the Dark Sector with Gravitational Waves
-UID:5cbd431e-e496-4f6d-9aaf-2a1cbab15c8e@5cbd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Yue Zhao (Hong Kong University of Science and Technology)\nDate: 15 Oct 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/12242.htm\n\n[Updated at 2026-10-30 09:36:17]
+DESCRIPTION:Speaker: Yue Zhao (Hong Kong University of Science and Technology)\nDate: 15 Oct 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/12242.htm\n\n[Updated at 2026-10-31 09:26:12]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20261015T073000Z
 SUMMARY:Astrophysical probes to new physics beyond the Standard Model
-UID:887e7321-3182-41b3-9c38-63505bcd37e5@887e.org
+UID:4f627085-c10a-4810-a97d-a7fe724b4064@4f62.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Zefeng Li (Durham University\, UK)\nDate: 28 Sep 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11892.htm\n\n[Updated at 2026-10-30 09:36:17]
+DESCRIPTION:Speaker: Andrew Lawrence Miller (ICTP-AP)\nDate: 22 Oct 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/12342.htm\n\n[Updated at 2026-10-31 09:26:12]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261022T073000Z
+SUMMARY:From Ultralight to Macroscopic Dark Matter: A Window into the Dark Sector with Gravitational Waves
+UID:03b2c1d2-b3cb-4911-a007-d50c4f725b59@03b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dr. Yinuo Han (Caltech)\nDate: 27 Oct 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11712.htm\n\n[Updated at 2026-10-31 09:26:12]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261027T073000Z
+SUMMARY:The planetesimal formation outcome probed by debris disk structures
+UID:ca204047-86ec-409b-8b39-7b3c6b9d589f@ca20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Yuming Fu (Leiden University)\nDate: 21 Oct 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/11912.htm\n\n[Updated at 2026-10-31 09:26:12]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261021T023000Z
+SUMMARY:From quasar surveys to AGN physics at scale: Euclid\, DESI\, and representation learning
+UID:3fa82a78-d123-43f2-91e3-e34c1e39ac67@3fa8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Sheperd Doeleman\, Harvard & Smithsonian\nDate: 28 Oct 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/12422.htm\n\n[Updated at 2026-10-31 09:26:12]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261028T023000Z
+SUMMARY:EHT and Black Hole Research: An Informal Discussion with Sheperd Doeleman
+UID:722ae93e-4da0-43ab-90ad-d295114cd4bd@722a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Bohan Yue (Oxford University\, UK)\nDate: 28 Sep 2026 - 04:00PM\nLink: http://kiaa.pku.edu.cn/info/1025/11902.htm\n\n[Updated at 2026-10-31 09:26:12]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20260928T080000Z
+SUMMARY:New insights to the jet powering mechanism in radio quasars from the LOFAR Two-metre Sky Survey (LoTSS)
+UID:1e235499-1cde-48bb-85ab-42abb37de6f1@1e23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Robert Wimmer\, American Physical Society\nDate: 30 Oct 2026 - 11:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/12352.htm\n\n[Updated at 2026-10-31 09:26:12]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261030T033000Z
+SUMMARY:The Physical Review: Review Process & Publishing in an Artificial Intelligence World
+UID:e7110fc0-c527-4ffe-be3a-944e5ed0d789@e711.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Hao He (University of Bonn)\nDate: 20 Oct 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/12102.htm\n\n[Updated at 2026-10-31 09:26:12]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261020T073000Z
+SUMMARY:Quantifying the local gas structure around star-forming regions
+UID:b55f0a54-3588-4ecd-92f4-c1c042d99087@b55f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: John Bally (Astrophysical and Planetary Sciences\, University of Colorado\, USA)\nDate: 27 Oct 2026 - 10:00AM\nLink: http://kiaa.pku.edu.cn/info/1026/12372.htm\n\n[Updated at 2026-10-31 09:26:12]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261027T020000Z
+SUMMARY:Star Formation:  Jets\, explosions\, N-body interactions
+UID:e1f55e22-3607-4d0b-a1f8-dd5592508ccf@e1f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Rongrong Liu\, CfA Harvard & Smithsonian\nDate: 3 Nov 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11952.htm\n\n[Updated at 2026-10-31 09:26:12]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261103T073000Z
+SUMMARY:The Lumina Project: How Assembly History Shapes Galaxy Disk Sizes across Cosmic Time
+UID:594feb5f-aa0e-45d7-816e-5ac77d65edcf@594f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Yiming Dong\nDate: 12 Oct 2026 - 07:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/12252.htm\n\n[Updated at 2026-10-31 09:26:12]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261012T113000Z
+SUMMARY:AI Workshop
+UID:c7884383-a784-4282-b919-9d0b695077a8@c788.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Zefeng Li (Durham University\, UK)\nDate: 28 Sep 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11892.htm\n\n[Updated at 2026-10-31 09:26:12]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20260928T073000Z
 SUMMARY:Galaxy Evolution in Spatially Resolved Instruments
-UID:eb9e748f-920a-4112-93d8-ed8f852212bb@eb9e.org
+UID:9367f0a8-356c-418f-a232-17357aef5ff7@9367.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dr. Jinhong Chen (HKU)\nDate: 15 Oct 2026 - 10:00AM\nLink: http://kiaa.pku.edu.cn/info/1025/11992.htm\n\n[Updated at 2026-10-31 09:26:12]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261015T020000Z
+SUMMARY:A Multimessenger Journey into White Dwarf Tidal Disruption Events by Intermediate-Mass Black Holes
+UID:321738f5-5dff-4e62-9b64-54cce2e17d30@3217.org
 END:VEVENT
 END:VCALENDAR
