@@ -2,51 +2,51 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Zhen Guo (Universidad de Valparaíso)\nDate: 3 Dec 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/12442.htm\n\n[Updated at 2026-11-01 08:44:11]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20261203T073000Z
-SUMMARY:TBD
-UID:7ff28f01-e2ae-48ed-b167-3ac1cb9e30eb@7ff2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Pablo Pena (THU)\nDate: 10 Nov 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/12022.htm\n\n[Updated at 2026-11-01 08:44:11]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20261110T073000Z
-SUMMARY:Dr Pablo Pena's seminar talk
-UID:00058172-3049-49ab-b281-631e43ccec33@0005.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Qinyue Fei\, University of Toronto\nDate: 8 Dec 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/12322.htm\n\n[Updated at 2026-11-01 08:44:11]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20261208T073000Z
-SUMMARY:Dr. Qinyue Fei's Seminar Talk
-UID:54c6fb60-ffa3-4774-9c8b-f0fafe23fda8@54c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Joop Schaye (LeidenUniversity)\nDate: 2 Nov 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/12432.htm\n\n[Updated at 2026-11-01 08:44:11]
+DESCRIPTION:Speaker: Joop Schaye (LeidenUniversity)\nDate: 2 Nov 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/12432.htm\n\n[Updated at 2026-11-02 09:18:00]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20261102T073000Z
 SUMMARY:Cosmological simulations of galaxy formation
-UID:3fba86a8-c95f-4f6d-ac20-6e9a175aeea1@3fba.org
+UID:d2416039-6df0-4210-bef5-e72a0e7e4cc6@d241.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Rongrong Liu\, CfA Harvard & Smithsonian\nDate: 3 Nov 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11952.htm\n\n[Updated at 2026-11-01 08:44:11]
+DESCRIPTION:Speaker: Rongrong Liu\, CfA Harvard & Smithsonian\nDate: 3 Nov 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11952.htm\n\n[Updated at 2026-11-02 09:18:00]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20261103T073000Z
 SUMMARY:The Lumina Project: How Assembly History Shapes Galaxy Disk Sizes across Cosmic Time
-UID:7c827219-c471-48b5-991f-9b4a12c2582b@7c82.org
+UID:14f0b1ff-4585-43e5-bc3b-20c1c36a0562@14f0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Konstantin Gerbig (UChicago)\nDate: 24 Nov 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/12012.htm\n\n[Updated at 2026-11-01 08:44:11]
+DESCRIPTION:Speaker: Pablo Pena (THU)\nDate: 10 Nov 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/12022.htm\n\n[Updated at 2026-11-02 09:18:00]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261110T073000Z
+SUMMARY:Dr Pablo Pena's seminar talk
+UID:f8b117ed-a78e-4cfc-bbe9-a5719ec6c7b7@f8b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Zhen Guo (Universidad de Valparaíso)\nDate: 3 Dec 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/12442.htm\n\n[Updated at 2026-11-02 09:18:00]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261203T073000Z
+SUMMARY:TBD
+UID:410bde55-5c76-4769-b92a-94210d80cec7@410b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dr. Qinyue Fei\, University of Toronto\nDate: 8 Dec 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/12322.htm\n\n[Updated at 2026-11-02 09:18:00]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261208T073000Z
+SUMMARY:Dr. Qinyue Fei's Seminar Talk
+UID:71e4a525-9e8d-416b-ba62-ffed3e750245@71e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Konstantin Gerbig (UChicago)\nDate: 24 Nov 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/12012.htm\n\n[Updated at 2026-11-02 09:18:00]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20261124T073000Z
 SUMMARY:Dr Konstantin Gerbig's seminar talk
-UID:091fdac0-ce48-405c-b092-4273a34626bc@091f.org
+UID:020a36b1-02e3-4487-a4ea-3ef497985a37@020a.org
 END:VEVENT
 END:VCALENDAR
