@@ -2,59 +2,75 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Konstantin Gerbig (UChicago)\nDate: 24 Nov 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/12012.htm\n\n[Updated at 2026-11-07 09:39:43]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20261124T073000Z
-SUMMARY:Dr Konstantin Gerbig's seminar talk
-UID:93266cf7-b16b-4997-849e-b4d3eb914961@9326.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr Habib Ahammad Mondal\, University of Tokyo\nDate: 11 Nov 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/12542.htm\n\n[Updated at 2026-11-07 09:39:43]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20261111T073000Z
-SUMMARY:Dr Habib Ahammad Mondal's Seminar Talk
-UID:cadc8555-b23b-4f5f-b389-bf1e64532558@cadc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dr. Qinyue Fei\, University of Toronto\nDate: 8 Dec 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/12322.htm\n\n[Updated at 2026-11-07 09:39:43]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20261208T073000Z
-SUMMARY:Dr. Qinyue Fei's Seminar Talk
-UID:9cee2aca-714a-40f3-9ea5-5293f909f54c@9cee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Pablo Pena (THU)\nDate: 10 Nov 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/12022.htm\n\n[Updated at 2026-11-07 09:39:43]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20261110T073000Z
-SUMMARY:Hunting cold giants with RVs and astrometry in the Era of Gaia DR4
-UID:4208de5d-5bae-4e5c-aafc-6b5496ca3a32@4208.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Zhen Guo (Universidad de Valparaíso)\nDate: 3 Dec 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/12442.htm\n\n[Updated at 2026-11-07 09:39:43]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20261203T073000Z
-SUMMARY:Caught-on-fire: Chilean observation of eruptive young stars
-UID:9a263cca-17f2-4c95-baa5-b2cef656cea4@9a26.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Mar Carretero-Castrillo\, European Southern Observatory (ESO) in Chile\nDate: 9 Nov 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/12502.htm\n\n[Updated at 2026-11-07 09:39:43]
-DURATION:PT1H
-LOCATION:KIAA
-DTSTART:20261109T023000Z
-SUMMARY:Galactic massive runaway stars: new insights from Gaia and beyond
-UID:c66a6b2f-dc21-46cb-bbf8-411a8e4e81fd@c66a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Joop Schaye (Leiden University)\nDate: 2 Nov 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/12432.htm\n\n[Updated at 2026-11-07 09:39:43]
+DESCRIPTION:Speaker: Joop Schaye (Leiden University)\nDate: 2 Nov 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/12432.htm\n\n[Updated at 2026-11-08 09:07:28]
 DURATION:PT1H
 LOCATION:KIAA
 DTSTART:20261102T073000Z
 SUMMARY:Cosmological simulations of galaxy formation
-UID:1b108ccc-3cc6-4a8d-9e49-efa393ac9963@1b10.org
+UID:91fcab3f-2113-47db-8c83-1ae0d9a4a7cc@91fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Huub Röttgering (Leiden University)\nDate: 26 Nov 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/12552.htm\n\n[Updated at 2026-11-08 09:07:28]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261126T073000Z
+SUMMARY:The formation and evolution of supermassive black holes: Recent results from the LOFAR radio telescope and ESA's Euclid mission.
+UID:2acfd03f-b830-4f9d-9d97-19e7f6eac039@2acf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dr. Qinyue Fei\, University of Toronto\nDate: 8 Dec 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/12322.htm\n\n[Updated at 2026-11-08 09:07:28]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261208T073000Z
+SUMMARY:Dr. Qinyue Fei's Seminar Talk
+UID:dbae9937-342e-4a4a-8d4c-0d81e30b72e7@dbae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Rongrong Liu\, CfA Harvard & Smithsonian\nDate: 17 Nov 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/11952.htm\n\n[Updated at 2026-11-08 09:07:28]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261117T073000Z
+SUMMARY:The Lumina Project: How Assembly History Shapes Galaxy Disk Sizes across Cosmic Time
+UID:3931b375-f3a3-4c1a-a3b5-20c08c4402ff@3931.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Dr Habib Ahammad Mondal\, University of Tokyo\nDate: 11 Nov 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/12542.htm\n\n[Updated at 2026-11-08 09:07:28]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261111T073000Z
+SUMMARY:Constraints on VHE gamma-ray emission of Flat Spectrum Radio  Quasars with the MAGIC telescopes
+UID:0e6f3753-8198-445d-bd72-feed7a1c4a73@0e6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Pablo Pena (THU)\nDate: 10 Nov 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/12022.htm\n\n[Updated at 2026-11-08 09:07:28]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261110T073000Z
+SUMMARY:Hunting cold giants with RVs and astrometry in the Era of Gaia DR4
+UID:3c59f0ce-838a-4999-bb69-58db47d484a3@3c59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Zhen Guo (Universidad de Valparaíso)\nDate: 3 Dec 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1024/12442.htm\n\n[Updated at 2026-11-08 09:07:28]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261203T073000Z
+SUMMARY:Caught-on-fire: Chilean observation of eruptive young stars
+UID:4a6144e9-fd1e-4606-9196-07ec557c94d7@4a61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Konstantin Gerbig (UChicago)\nDate: 24 Nov 2026 - 03:30PM\nLink: http://kiaa.pku.edu.cn/info/1025/12012.htm\n\n[Updated at 2026-11-08 09:07:28]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261124T073000Z
+SUMMARY:Dr Konstantin Gerbig's seminar talk
+UID:6ffea91d-3650-47d9-8fad-1a9fd2ab2ba5@6ffe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Mar Carretero-Castrillo\, European Southern Observatory (ESO) in Chile\nDate: 9 Nov 2026 - 10:30AM\nLink: http://kiaa.pku.edu.cn/info/1025/12502.htm\n\n[Updated at 2026-11-08 09:07:28]
+DURATION:PT1H
+LOCATION:KIAA
+DTSTART:20261109T023000Z
+SUMMARY:Galactic massive runaway stars: new insights from Gaia and beyond
+UID:baba8b72-dfbd-44b1-97b7-724b5d81ff6c@baba.org
 END:VEVENT
 END:VCALENDAR
